@@ -151,7 +151,13 @@ def run():
             team2_id = get_or_create_team(conn, team2_name)
             debug("TEAM IDs", f"{team1_id} vs {team2_id}")
 
-            match_id = create_match(conn, match_code, team1_id, team2_id, event_id=event_id, venue_id=venue_id)
+            # Extract match number (e.g., "15th Match")
+            match_number = None
+            if "," in match["match"]:
+                match_number = match["match"].split(",")[-1].strip()
+            debug("MATCH NUMBER", match_number)
+
+            match_id = create_match(conn, match_code, team1_id, team2_id, event_id=event_id, venue_id=venue_id, match_number=match_number)
             debug("MATCH ID", match_id)
             if not match_id:
                 print("❌ match_id is None → skipping")

@@ -165,7 +165,7 @@ def get_or_create_event(conn, event_name, format='T20', season_year=2026):
 # -------------------------------
 # MATCH
 # -------------------------------
-def create_match(conn, match_code, team1_id, team2_id, event_id=1, venue_id=1):
+def create_match(conn, match_code, team1_id, team2_id, event_id=1, venue_id=1, match_number=None):
     cur = conn.cursor()
 
     try:
@@ -177,12 +177,21 @@ def create_match(conn, match_code, team1_id, team2_id, event_id=1, venue_id=1):
                 team2_id,
                 venue_id,
                 match_date,
-                match_status
+                match_status,
+                match_number
             )
-            VALUES (?, ?, ?, ?, ?, DATE('now'), 'scheduled')
-        """, (event_id, match_code, team1_id, team2_id, venue_id))
+            VALUES (?, ?, ?, ?, ?, DATE('now'), 'scheduled', ?)
+        """, (event_id, match_code, team1_id, team2_id, venue_id, match_number))
 
         conn.commit()
+
+    except sqlite3.IntegrityError:
+        # Match already exists, update the match_number
+        try:
+            cur.execute("UPDATE matches SET match_number = ? WHERE match_code = ?", (match_number, match_code))
+            conn.commit()
+        except Exception as e:
+            print(f"❌ UPDATE FAILED for existing match {match_code}:", e)
 
     except Exception as e:
         print("❌ INSERT FAILED:", e)
