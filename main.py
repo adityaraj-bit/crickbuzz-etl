@@ -3,7 +3,12 @@ from match_details import get_match_details
 from scorecard import parse_scorecard
 from match_info import parse_match_info
 
-from db import get_conn, create_match, get_or_create_team, get_or_create_player, ensure_defaults, get_or_create_event, get_or_create_venue, insert_match_official, insert_playing_xi, update_match_result
+from db import (
+    get_conn, create_match, get_or_create_team, get_or_create_player, 
+    ensure_defaults, get_or_create_event, get_or_create_venue, 
+    insert_match_official, insert_playing_xi, update_match_result,
+    update_match_player_of_match, insert_match_player_role
+)
 from insert_scorecard import insert_scorecard
 from player_profile import scrape_player_profile
 import traceback
@@ -159,7 +164,7 @@ def run():
                     print(" -", e)
                 continue
             # ---------------- STEP 7 ----------------
-            # ---------------- STEP 7 ----------------
+            match_players = {}
             if info and info.get("squads"):
                 for team_name, squad in info["squads"].items():
 
@@ -170,6 +175,14 @@ def run():
                     for player in squad.get("playing_xi", []):
                         pid = get_or_create_player_with_profile(conn, player)
                         insert_playing_xi(conn, match_id, curr_team_id, pid)
+                        
+                        # Store name -> pid for MOTM resolution
+                        match_players[clean_name(player["name"])] = pid
+                        
+                        # 2. Specific Roles (Captain, WK)
+                        role = player.get("role")
+                        if role and role.lower() in ["captain", "wicketkeeper"]:
+                            insert_match_player_role(conn, match_id, curr_team_id, pid, role)
 
             # ---------------- STEP 8 ----------------
             # Official Info Parsing
@@ -210,6 +223,22 @@ def run():
             result_text = result_str
             
             update_match_result(conn, match_id, winner_id, toss_winner_id, toss_decision, result_text=result_text)
+
+            # Player of the Match
+            motm_name = details.get("player_of_match")
+            if motm_name:
+                motm_clean = clean_name(motm_name)
+                debug("PLAYER OF THE MATCH NAME", motm_clean)
+                
+                # Try to use existing player from squad
+                motm_id = match_players.get(motm_clean)
+                
+                if not motm_id:
+                    # Fallback to general lookup/create
+                    motm_id = get_or_create_player_with_profile(conn, {"name": motm_name})
+                
+                debug("PLAYER OF THE MATCH ID", motm_id)
+                update_match_player_of_match(conn, match_id, motm_id)
 
             # ---------------- STEP 9 ----------------
             

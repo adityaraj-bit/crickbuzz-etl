@@ -261,6 +261,30 @@ def update_match_result(conn, match_id, winner_id=None, toss_winner_id=None, tos
         print(f"❌ Failed to update match result for {match_id}: {e}")
 
 
+def update_match_player_of_match(conn, match_id, player_id):
+    cur = conn.cursor()
+    try:
+        cur.execute("UPDATE matches SET player_of_match_id = ? WHERE match_id = ?", (player_id, match_id))
+        conn.commit()
+    except Exception as e:
+        print(f"❌ Failed to update player of match for {match_id}: {e}")
+
+
+def insert_match_player_role(conn, match_id, team_id, player_id, role_type):
+    if not role_type or role_type.lower() not in ['captain', 'wicketkeeper']:
+        return
+
+    cur = conn.cursor()
+    try:
+        cur.execute("""
+            INSERT OR REPLACE INTO match_player_roles (match_id, team_id, player_id, role_type)
+            VALUES (?, ?, ?, ?)
+        """, (match_id, team_id, player_id, role_type.lower()))
+        conn.commit()
+    except Exception as e:
+        print(f"❌ Failed to insert match player role: {e}")
+
+
 def ensure_defaults(conn):
     cur = conn.cursor()
 
