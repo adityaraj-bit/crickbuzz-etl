@@ -1,0 +1,8 @@
+match_id,event_id,match_code,match_number,team1_id,team2_id,venue_id,match_date,match_time,toss_winner_team_id,toss_decision,match_status,winning_team_id,result_text,team1_runs,team1_wickets,team1_overs,team2_runs,team2_wickets,team2_overs
+1,2,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,,1,2,2,2026-04-02,,2,field,completed,1,Mexico won by 23 runs,153,6,20.0,130,4,20.0
+2,3,gh-vs-swt-12th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,3,4,3,2026-04-02,,3,bat,completed,3,Ghana won by 83 runs,178,5,20.0,95,10,17.5
+3,3,sey-vs-mwi-11th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,5,6,4,2026-04-02,,6,field,completed,6,Malawi won by 6 wkts,108,7,20.0,111,4,17.0
+4,3,tan-vs-shn-10th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,7,8,3,2026-04-02,,7,bat,completed,7,Tanzania won by 161 runs,236,4,20.0,75,10,18.3
+5,3,tan-vs-sey-9th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,7,5,3,2026-04-02,,7,bat,completed,7,Tanzania won by 153 runs,205,3,20.0,52,9,20.0
+6,3,shn-vs-gh-7th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,8,3,4,2026-04-02,,3,field,completed,3,Ghana won by 9 wkts,77,10,20.0,78,1,6.4
+7,3,swt-vs-mwi-8th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,4,6,3,2026-04-02,,4,bat,completed,6,Malawi won by 8 wkts,75,10,15.2,77,2,6.5

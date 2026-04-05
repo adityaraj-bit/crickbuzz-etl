@@ -1,0 +1,101 @@
+player_id,full_name,country_name,date_of_birth,birth_place,primary_role,batting_style,bowling_style
+1,jayanth byrappa,Mexico,"October 12, 1986 (39 years)",,,Right Handed Bat,Right-arm medium
+2,shantanu kaveri,Mexico,"February 01, 1979 (47 years)",,,Right Handed Bat,Right-arm medium
+3,gurpreet singh,Mexico,"February 24, 1999 (27 years)",,,Right Handed Bat,Right-arm offbreak
+4,kashigoud patil,Mexico,"July 20, 1990 (35 years)",,,Right Handed Bat,
+5,amir butt,Mexico,"August 10, 1979 (46 years)",,,Right Handed Bat,Right-arm medium
+6,dhananjaya panda,Mexico,"December 30, 1997 (28 years)",,,Right Handed Bat,Right-arm fast-medium
+7,devon ebersohn,Mexico,"November 19, 1980 (45 years)",,,Right Handed Bat,Right-arm offbreak
+8,matthew noble,Mexico,"November 08, 1992 (33 years)",,,Left Handed Bat,Left-arm medium
+9,devjani mutreja,Mexico,"March 30, 2008 (18 years)",,,Right Handed Bat,Right-arm medium
+10,pratik singh bais,Mexico,"February 20, 1998 (28 years)",,,Right Handed Bat,Right-arm fast-medium
+11,gutierrez chavez,Mexico,"December 24, 2001 (24 years)",,,Right Handed Bat,Right-arm medium
+12,michel assuncao,Brazil,"May 17, 2000 (25 years)",,,Right Handed Bat,
+13,chrystian machado,Brazil,"February 28, 2004 (22 years)",,,Right Handed Bat,
+14,gabriel oliveira,Brazil,"August 04, 1996 (29 years)",,,Right Handed Bat,Right-arm medium
+15,lucas maximo,Brazil,"December 30, 2000 (25 years)",,,Right Handed Bat,Right-arm medium
+16,luiz goncalves,Brazil,"February 03, 1988 (38 years)","Poços de Caldas, Brazil",,Right Handed Bat,
+17,luiz muller,Brazil,"July 30, 2005 (20 years)",,,Right Handed Bat,Left-arm fast-medium
+18,luiz moras,Brazil,"January 26, 2009 (17 years)",,,Right Handed Bat,Right-arm medium
+19,luiz morais,Brazil,"March 18, 2002 (24 years)",,,Right Handed Bat,Right-arm medium
+20,riquelmi nascimento,Brazil,"June 12, 2007 (18 years)",,,Right Handed Bat,Right-arm medium
+21,william maximo,Brazil,"December 30, 2000 (25 years)",,,Right Handed Bat,Right-arm medium
+22,yasar haroon,Brazil,"December 23, 1984 (41 years)",,,Right Handed Bat,Right-arm offbreak
+23,luiz gabriel,Unknown,,,,,
+24,pratik singh,Unknown,,,,,
+25,adil butt,Eswatini,"December 31, 1988 (37 years)",,,Right Handed Bat,Right-arm fast-medium
+26,eric phiri,Eswatini,"November 07, 1995 (30 years)",,,Right Handed Bat,Right-arm offbreak
+27,hujeifa jangariya,Eswatini,"February 17, 1996 (30 years)",,,Right Handed Bat,
+28,mancoba jele,Eswatini,"January 21, 1998 (28 years)",,,Right Handed Bat,Right-arm fast-medium
+29,melusi magagula,Eswatini,"November 26, 1994 (31 years)",,,Right Handed Bat,Right-arm medium
+30,minhaz khojbariya,Eswatini,"March 03, 1999 (27 years)",,,Left Handed Bat,Left-arm orthodox
+31,mohammed alamgir,Eswatini,"April 20, 1991 (34 years)",,,Right Handed Bat,Right-arm offbreak
+32,rohan sandeep,Eswatini,"March 02, 2003 (23 years)",,,Right Handed Bat,Right-arm medium
+33,saqib anwar,Eswatini,"July 07, 1995 (30 years)",,,Right Handed Bat,Right-arm medium
+34,sibusiso jele,Eswatini,"August 03, 2000 (25 years)",,,Left Handed Bat,Left-arm fast
+35,umair qasim,Eswatini,"December 20, 1994 (31 years)",,,Right Handed Bat,Right-arm offbreak
+36,jayant gautam,Ghana,,,,Right Handed Bat,
+37,richmond baaleri,Ghana,"August 16, 2002 (23 years)",,,Right Handed Bat,Right-arm offbreak
+38,obed harvey,Ghana,"June 01, 1990 (35 years)",Ghana,,Left Handed Bat,Left-arm medium
+39,bharani kumar majji,Ghana,"June 24, 1992 (33 years)",,,Right Handed Bat,Right-arm offbreak
+40,isaac aboagye,Ghana,"December 27, 1995 (30 years)",,,Right Handed Bat,Right-arm medium
+41,frank baaleri,Ghana,"October 22, 1998 (27 years)",,,Right Handed Bat,
+42,ayushmaan mishra,Ghana,"June 07, 2002 (23 years)",,,Right Handed Bat,Right-arm offbreak
+43,judah solomon,Ghana,"June 02, 1995 (30 years)",,,Left Handed Bat,Left-arm orthodox
+44,lee nyarko,Ghana,,,,Left Handed Bat,
+45,nitesh,Ghana,"May 01, 1999 (26 years)",,,Right Handed Bat,Right-arm medium
+46,vincent ateak,Ghana,"May 10, 1997 (28 years)",,,Left Handed Bat,Left-arm orthodox
+47,bharani majji,Unknown,,,,,
+48,rashen de silva,Seychelles,"August 09, 1991 (34 years)",Colombo,,Right Handed Bat,Right-arm legbreak
+49,thiwanka rajapaksha,Seychelles,"September 11, 1992 (33 years)",,,Right Handed Bat,Right-arm fast-medium
+50,deso kalvin,Seychelles,"May 13, 1987 (38 years)",,,Right Handed Bat,Right-arm medium
+51,jobayer hossen,Seychelles,"November 05, 1994 (31 years)",,,Right Handed Bat,
+52,hirani lalji harji,Seychelles,"August 04, 1988 (37 years)",,,Right Handed Bat,Right-arm fast-medium
+53,mazharul islam,Seychelles,"January 01, 1994 (32 years)",,,Right Handed Bat,
+54,saddam md,Seychelles,,,,Left Handed Bat,Right-arm fast-medium
+55,samarathunga rukmal,Seychelles,"February 22, 1994 (32 years)",,,Right Handed Bat,Left-arm medium
+56,shanmugasundram mohan,Seychelles,"May 16, 1989 (36 years)",,,Right Handed Bat,
+57,thilina silva,Seychelles,,,,Right Handed Bat,
+58,santosh pillay,Seychelles,"October 13, 1987 (38 years)",,,Right Handed Bat,Right-arm fast-medium
+59,aaftab limdawala,Malawi,,,,Right Handed Bat,Right-arm medium
+60,blessings pondani,Malawi,"April 17, 2002 (23 years)",,,Right Handed Bat,Right-arm fast-medium
+61,bright balala,Malawi,,,,Left Handed Bat,
+62,daniel jakiel,Zimbabwe,"November 14, 1990 (35 years)","Mabvuku, Harare",,Right Handed Bat,Right-arm fast-medium
+63,donnex kansonkho,Malawi,"December 06, 1998 (27 years)",,,Left Handed Bat,Right-arm medium
+64,gift kansonkho,Malawi,"May 20, 1991 (34 years)",,,Right Handed Bat,Right-arm medium
+65,kelvin thuchila,Malawi,,,,Left Handed Bat,
+66,mike choamba,Malawi,"July 10, 2004 (21 years)",,,Right Handed Bat,Right-arm offbreak
+67,sami sohail,Malawi,"January 29, 2002 (24 years)",,,Right Handed Bat,Right-arm medium
+68,suhail zahid vayani,Malawi,"February 27, 2008 (18 years)",,,Right Handed Bat,Right-arm offbreak
+69,trust makaya,Malawi,,,,Right Handed Bat,Right-arm medium
+70,lalji hirani,Unknown,,,,,
+71,dhrumit mehta,Tanzania,"April 21, 2003 (22 years)",,,Right Handed Bat,Right-arm offbreak
+72,ivan selemani,Tanzania,"June 20, 2000 (25 years)",Mvomero,,Right Handed Bat,Right-arm offbreak
+73,ajith augastin,Tanzania,"November 25, 1995 (30 years)",,,Left Handed Bat,Right-arm fast-medium
+74,arun yadav,Tanzania,"February 05, 1992 (34 years)",,,Right Handed Bat,Right-arm medium
+75,mukesh suthar,Tanzania,"September 27, 1997 (28 years)",,,Right Handed Bat,
+76,kassim nassoro,Tanzania,"May 13, 1988 (37 years)","Dar es Salaam, Tanzania",,Right Handed Bat,Right-arm offbreak
+77,omary kitunda,Tanzania,"June 28, 1999 (26 years)",Ilala,,Right Handed Bat,
+78,ally kimote,Tanzania,"May 26, 1992 (33 years)",Tanzania,,Right Handed Bat,Right-arm medium
+79,khalidy juma,Tanzania,"December 07, 2008 (17 years)",,,Right Handed Bat,Right-arm medium
+80,laksh bakrania,Tanzania,"September 29, 2007 (18 years)",,,Left Handed Bat,Left-arm orthodox
+81,yalinde nkanya,Tanzania,"June 22, 2003 (22 years)",,,Right Handed Bat,Left-arm orthodox
+82,jamie essex,Saint Helena,"June 21, 1994 (31 years)",,,Right Handed Bat,Right-arm offbreak
+83,delroy leo,Saint Helena,"June 19, 1989 (36 years)",,,Left Handed Bat,
+84,jordi henry,St Helena,"February 16, 1999 (27 years)",,,Right Handed Bat,
+85,andrew yon,St Helena,"October 13, 1996 (29 years)",,,Right Handed Bat,
+86,joey thomas,Saint Helena,"November 01, 2003 (22 years)",,,Right Handed Bat,Right-arm fast-medium
+87,aiden leo,St Helena,"February 01, 2000 (26 years)",,,Right Handed Bat,Right-arm medium
+88,rhys francis,St Helena,"June 02, 2000 (25 years)",,,Right Handed Bat,
+89,cliff richards,St Helena,"April 02, 1991 (35 years)",,,Right Handed Bat,Right-arm medium
+90,dane leo,Saint Helena,"April 26, 1994 (31 years)",,,Right Handed Bat,Right-arm fast-medium
+91,barry stroud,St Helena,"February 28, 1990 (36 years)",,,Right Handed Bat,Right-arm fast-medium
+92,jordan yon,St Helena,"April 05, 1997 (28 years)",,,Right Handed Bat,Right-arm fast-medium
+93,manikandan mariyappan,Seychelles,"July 31, 1996 (29 years)",,,Right Handed Bat,
+94,manisankar viswanathan,Seychelles,"May 14, 1996 (29 years)",,,Right Handed Bat,
+95,nagarajan gnanapragasam,Seychelles,"November 29, 1985 (40 years)",,,Right Handed Bat,Right-arm medium
+96,philip yevugah,Ghana,"November 24, 1999 (26 years)",,,Right Handed Bat,
+97,devender singh malik,Ghana,"October 09, 1990 (35 years)",,,Right Handed Bat,
+98,shijo devasia,Ghana,"May 23, 1983 (42 years)",,,Right Handed Bat,Right-arm legbreak
+99,kazim somani,Malawi,"October 14, 2005 (20 years)",,,Right Handed Bat,Right-arm medium
+100,suhail vayani,Unknown,,,,,
