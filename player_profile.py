@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+import re
 
 def scrape_player_profile(url):
     headers = {
@@ -9,14 +9,10 @@ def scrape_player_profile(url):
     }
 
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.text, "html.parser")
 
-        data = {
-            "name": None,
-            "country": None,
-            "personal_info": {}
-        }
+        data = {}
 
         # =========================
         # HEADER BLOCK
@@ -24,66 +20,79 @@ def scrape_player_profile(url):
         header = soup.find("div", class_=lambda x: x and "items-center" in x and "gap-4" in x)
 
         if not header:
-            print("❌ Header not found")
+            print(f"❌ Header not found for {url}")
             return None
 
         # =========================
         # NAME
         # =========================
+        name = None
         flex_col = header.find("div", class_=lambda x: x and "flex-col" in x)
 
         if flex_col:
             name_tag = flex_col.find("span")
             if name_tag:
-                data["name"] = name_tag.get_text(strip=True)
+                name = name_tag.get_text(strip=True)
+
+        data["name"] = name
 
         # =========================
         # COUNTRY
         # =========================
+        country = "Unknown"
+
         if flex_col:
             country_div = flex_col.find("div", class_=lambda x: x and "inline-flex" in x)
             if country_div:
                 country_span = country_div.find_all("span")
                 if country_span:
-                    data["country"] = country_span[-1].get_text(strip=True)
+                    country = country_span[-1].get_text(strip=True)
+
+        data["country"] = country
 
         # =========================
-        # PERSONAL INFO
+        # PERSONAL INFO (Robust Label -> Value Search)
         # =========================
         personal_info = {}
+        
+        # Labels we care about and their canonical keys
+        label_map = {
+            "Born": "Born",
+            "Birth Place": "Birth Place",
+            "Role": "Role",
+            "Playing Role": "Role",
+            "Batting Style": "Batting Style",
+            "Bowling Style": "Bowling Style",
+            "Height": "Height"
+        }
 
-        # Find the section containing PERSONAL INFORMATION
-        section = None
+        # Find all divs that might contain labels/values (common Cricbuzz pattern)
+        info_divs = soup.find_all("div", class_=lambda x: x and ("cb-col-40" in x or "cb-col-60" in x or "cb-col-100" in x))
+        
+        for i, div in enumerate(info_divs):
+            text = div.get_text(strip=True).strip(":")
+            if text in label_map:
+                canonical_key = label_map[text]
+                # The value is usually in the next div (cb-col-60)
+                if i + 1 < len(info_divs):
+                    val = info_divs[i+1].get_text(strip=True)
+                    personal_info[canonical_key] = val
 
-        for tag in soup.find_all(string=lambda text: "PERSONAL INFORMATION" in text):
-            section = tag.find_parent("div")
-            break
-
-        if section:
-            # Go one level up to include full block
-            parent = section.find_parent("div")
-
-            # Find rows inside this section only
-            rows = parent.find_all("div", class_=lambda x: x and "flex" in x)
-
-            for row in rows:
-                cols = row.find_all("div", recursive=False)
-
-                if len(cols) == 2:
-                    key = cols[0].get_text(strip=True)
-                    val = cols[1].get_text(strip=True)
-
-                    # ✅ Clean filters
-                    if (
-                        key and val
-                        and len(key) < 25
-                        and key.lower() not in ["batting", "bowling"]
-                    ):
-                        personal_info[key] = val
+        # Fallback: If the above failed, try searching for text directly
+        if not personal_info:
+            for label, canonical_key in label_map.items():
+                label_tag = soup.find(text=re.compile(f"^{label}$", re.I))
+                if label_tag:
+                    parent = label_tag.find_parent("div")
+                    if parent:
+                        # Value is often in the sibling div
+                        next_div = parent.find_next_sibling("div")
+                        if next_div:
+                            personal_info[canonical_key] = next_div.get_text(strip=True)
 
         data["personal_info"] = personal_info
-        return data
 
+        return data
     except Exception as e:
-        print(f"❌ player profile error: {e}")
+        print(f"❌ Error scraping profile {url}: {e}")
         return None
