@@ -54,7 +54,8 @@ cursor.execute("""
 CREATE TABLE IF NOT EXISTS venues (
     venue_id INTEGER PRIMARY KEY,
     stadium_name TEXT NOT NULL,
-    city TEXT NOT NULL,
+    city TEXT,
+    country TEXT,
     seating_capacity INTEGER
 );
 """)
@@ -211,10 +212,10 @@ CREATE TABLE IF NOT EXISTS bowling_scorecard (
     team_id INTEGER NOT NULL,
     player_id INTEGER NOT NULL,
 
-    overs REAL DEFAULT 0,
-    runs_conceded INTEGER DEFAULT 0,
-    wickets INTEGER DEFAULT 0,
-    economy REAL DEFAULT 0,
+    overs REAL,
+    runs_conceded INTEGER,
+    wickets INTEGER,
+    economy REAL,
 
     FOREIGN KEY (match_id) REFERENCES matches(match_id),
     FOREIGN KEY (team_id) REFERENCES teams(team_id),

@@ -43,7 +43,26 @@ def insert_scorecard(conn, match_id, team1_id, team2_id, scorecard_data):
 
         # ---------------- BATTING ----------------
         for b in innings.get("batting", []):
-            pid = get_or_create_player(conn, b["name"])
+            name = b["name"]
+            
+            # Players should already be created/synced by main.py
+            pid = get_or_create_player(conn, name)
+            if not pid:
+                continue
+            
+            from db import insert_playing_xi
+            insert_playing_xi(conn, match_id, team_id, pid)
+            
+            # Record Roles (Captain, WK) from scorecard
+            for role in b.get("roles", []):
+                from db import insert_match_player_role
+                insert_match_player_role(conn, match_id, team_id, pid, role)
+
+            # Avoid duplicates (composite PK not enforced on batting_id, but good practice)
+            cur.execute("""
+                SELECT batting_id FROM batting_scorecard 
+                WHERE match_id = ? AND team_id = ? AND player_id = ?
+            """, (match_id, team_id, pid))
             
             bowler_name = b.get("bowler")
             bowler_id = None
@@ -64,10 +83,33 @@ def insert_scorecard(conn, match_id, team1_id, team2_id, scorecard_data):
                 cur.execute("INSERT INTO batting_scorecard (match_id, team_id, player_id, runs_scored, balls_faced, fours, sixes, strike_rate, dismissal_type, bowler_id) VALUES (?,?,?,?,?,?,?,?,?,?)",
                            (match_id, batting_team_id, pid, safe_int(b.get("runs")), safe_int(b.get("balls")), safe_int(b.get("4s")), safe_int(b.get("sixes")), safe_float(b.get("sr")), b.get("dismissal"), bowler_id))
 
-        # ---------------- BOWLING ----------------
-        for bw in innings.get("bowling", []):
-            pid = get_or_create_player(conn, bw["name"])
+        # ---------------- DID NOT BAT (DNB) ----------------
+        # DNB players are already handled in main.py for playing_xi and roles
+        # insert_scorecard mostly focuses on the specific scores.
+        # But we can keep it here for redundancy if needed, though main.py covers it.
+        for d in innings.get("dnb", []):
+            name = d["name"]
+            pid = get_or_create_player(conn, name)
+            if not pid:
+                continue
             
+            from db import insert_playing_xi
+            insert_playing_xi(conn, match_id, team_id, pid)
+
+        # ---------------- BOWLING ----------------
+        for b in innings.get("bowling", []):
+            name = b["name"]
+            pid = get_or_create_player(conn, name)
+            if not pid:
+                continue
+            
+            from db import insert_match_player_role
+            # Record Roles (for bowlers who might have roles not seen in batting somehow)
+            for role in b.get("roles", []):
+                insert_match_player_role(conn, match_id, team_id, pid, role)
+            
+            # Stats insertion follows...
+
             cur.execute("""
                 UPDATE bowling_scorecard SET
                     team_id = ?, overs = ?, runs_conceded = ?, wickets = ?, economy = ?
