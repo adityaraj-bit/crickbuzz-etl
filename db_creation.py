@@ -184,11 +184,11 @@ CREATE TABLE IF NOT EXISTS batting_scorecard (
     team_id INTEGER NOT NULL,
     player_id INTEGER NOT NULL,
 
-    runs_scored INTEGER,
-    balls_faced INTEGER,
-    fours INTEGER,
-    sixes INTEGER,
-    strike_rate REAL,
+    runs_scored INTEGER DEFAULT 0,
+    balls_faced INTEGER DEFAULT 0,
+    fours INTEGER DEFAULT 0,
+    sixes INTEGER DEFAULT 0,
+    strike_rate REAL DEFAULT 0,
 
     dismissal_type TEXT,
     bowler_id INTEGER,
@@ -211,11 +211,10 @@ CREATE TABLE IF NOT EXISTS bowling_scorecard (
     team_id INTEGER NOT NULL,
     player_id INTEGER NOT NULL,
 
-    overs REAL,
-    runs_conceded INTEGER,
-    wickets INTEGER,
-    maidens INTEGER,
-    economy REAL,
+    overs REAL DEFAULT 0,
+    runs_conceded INTEGER DEFAULT 0,
+    wickets INTEGER DEFAULT 0,
+    economy REAL DEFAULT 0,
 
     FOREIGN KEY (match_id) REFERENCES matches(match_id),
     FOREIGN KEY (team_id) REFERENCES teams(team_id),
