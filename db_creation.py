@@ -185,11 +185,11 @@ CREATE TABLE IF NOT EXISTS batting_scorecard (
     team_id INTEGER NOT NULL,
     player_id INTEGER NOT NULL,
 
-    runs_scored INTEGER,
-    balls_faced INTEGER,
-    fours INTEGER,
-    sixes INTEGER,
-    strike_rate REAL,
+    runs_scored INTEGER default 0,
+    balls_faced INTEGER default 0,
+    fours INTEGER default 0,
+    sixes INTEGER default 0,
+    strike_rate REAL default 0,
 
     dismissal_type TEXT,
     bowler_id INTEGER,

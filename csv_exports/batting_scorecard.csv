@@ -1,110 +1,221 @@
 batting_id,match_id,team_id,player_id,runs_scored,balls_faced,fours,sixes,strike_rate,dismissal_type,bowler_id
-1,1,1,1,9,9,0,1,100.0,run out (Michel Assuncao/Lucas Maximo),
-2,1,1,2,2,3,0,0,66.67,b Riquelmi Nascimento,20
-3,1,1,3,37,32,3,1,115.62,c Lucas Maximo b Luiz Gabriel,23
-4,1,1,4,25,22,3,0,113.64,c Chrystian Machado b Luiz Gabriel,23
-5,1,1,5,8,10,0,1,80.0,c Michel Assuncao b Yasar Haroon,22
-6,1,1,6,27,25,2,1,108.0,st Lucas Maximo b Luiz Muller,17
-7,1,1,7,20,18,2,0,111.11,not out,
-8,1,1,8,1,2,0,0,50.0,not out,
-9,1,2,17,26,20,3,1,130.0,c Gurpreet Singh b Pratik Singh,24
-10,1,2,19,54,56,2,2,96.43,not out,
-11,1,2,22,36,35,4,1,102.86,c Devon Ebersohn b Amir Butt,5
-12,1,2,12,2,4,0,0,50.0,c Jayanth Byrappa b Amir Butt,5
-13,1,2,21,1,3,0,0,33.33,c Dhananjaya Panda b Devjani Mutreja,9
-14,1,2,16,6,2,1,0,300.0,not out,
-15,2,3,36,25,23,4,0,108.7,c Hujeifa Jangariya b Umair Qasim,35
-16,2,3,37,38,28,5,1,135.71,b Mancoba Jele,28
-17,2,3,38,39,34,3,0,114.71,c and b Adil Butt,25
-18,2,3,39,24,15,0,2,160.0,b Melusi Magagula,29
-19,2,3,40,9,8,1,0,112.5,c Mancoba Jele b Melusi Magagula,29
-20,2,3,41,18,11,2,0,163.64,not out,
-21,2,3,45,3,2,0,0,150.0,not out,
-22,2,4,25,35,28,5,1,125.0,c Judah Solomon b Isaac Aboagye,40
-23,2,4,35,2,17,0,0,11.76,c Vincent Ateak b Isaac Aboagye,40
-24,2,4,29,12,12,2,0,100.0,c and b Obed Harvey,38
-25,2,4,32,5,11,0,0,45.45,b Isaac Aboagye,40
-26,2,4,27,7,8,1,0,87.5,c Isaac Aboagye b Bharani Majji,47
-27,2,4,30,13,17,1,0,76.47,c Richmond Baaleri b Nitesh,45
-28,2,4,26,9,5,2,0,180.0,c Isaac Aboagye b Vincent Ateak,46
-29,2,4,31,1,2,0,0,50.0,c Isaac Aboagye b Bharani Majji,47
-30,2,4,34,4,5,1,0,80.0,c Ayushmaan Mishra b Nitesh,45
-31,2,4,28,1,2,0,0,50.0,not out,
-32,2,4,33,0,1,0,0,0.0,c Jayant Gautam b Bharani Majji,47
-33,3,5,48,2,4,0,0,50.0,c Bright Balala b Daniel Jakiel,62
-34,3,5,49,18,34,2,0,52.94,c Gift Kansonkho b Kelvin Thuchila,65
-35,3,5,54,0,1,0,0,0.0,lbw b Daniel Jakiel,62
-36,3,5,53,50,53,7,0,94.34,b Sami Sohail,67
-37,3,5,56,8,9,1,0,88.89,lbw b Mike Choamba,66
-38,3,5,58,11,10,2,0,110.0,b Sami Sohail,67
-39,3,5,50,0,1,0,0,0.0,b Sami Sohail,67
-40,3,5,51,13,7,2,0,185.71,not out,
-41,3,5,52,2,1,0,0,200.0,not out,
-42,3,6,63,12,8,1,1,150.0,b Lalji Hirani,70
-43,3,6,67,33,24,5,0,137.5,c (sub)Manisankar Viswanathan b Rashen de Silva,48
-44,3,6,66,28,33,2,0,84.85,c Samarathunga Rukmal b Thilina Silva,57
-45,3,6,59,8,11,0,0,72.73,lbw b Mazharul Islam,53
-46,3,6,64,10,16,0,0,62.5,not out,
-47,3,6,68,12,12,1,0,100.0,not out,
-48,4,7,71,11,8,2,0,137.5,lbw b Rhys Francis,88
-49,4,7,72,63,30,8,3,210.0,b Jordi Henry,84
-50,4,7,73,63,36,5,2,175.0,lbw b Joey Thomas,86
-51,4,7,74,46,29,4,1,158.62,b Joey Thomas,86
-52,4,7,75,28,14,2,1,200.0,not out,
-53,4,7,76,4,3,0,0,133.33,not out,
-54,4,8,82,16,14,3,0,114.29,lbw b Ally Kimote,78
-55,4,8,83,9,12,1,0,75.0,c Khalidy Juma b Ajith Augastin,73
-56,4,8,84,23,19,1,2,121.05,c Ally Kimote b Laksh Bakrania,80
-57,4,8,85,0,6,0,0,0.0,lbw b Yalinde Nkanya,81
-58,4,8,88,0,8,0,0,0.0,c Mukesh Suthar b Laksh Bakrania,80
-59,4,8,86,5,13,0,0,38.46,c Mukesh Suthar b Laksh Bakrania,80
-60,4,8,87,5,12,0,0,41.67,c Dhrumit Mehta b Kassim Nassoro,76
-61,4,8,89,7,7,0,1,100.0,b Kassim Nassoro,76
-62,4,8,90,4,7,1,0,57.14,b Khalidy Juma,79
-63,4,8,91,1,11,0,0,9.09,b Khalidy Juma,79
-64,4,8,92,1,2,0,0,50.0,not out,
-65,5,7,71,49,48,4,0,102.08,c Manikandan Mariyappan b Thilina Silva,57
-66,5,7,72,110,52,10,4,211.54,c Nagarajan Gnanapragasam b Thilina Silva,57
-67,5,7,73,27,14,4,1,192.86,not out,
-68,5,7,74,10,5,0,1,200.0,c Manikandan Mariyappan b Jobayer Hossen,51
-69,5,7,75,1,1,0,0,100.0,not out,
-70,5,5,48,0,1,0,0,0.0,lbw b Khalidy Juma,79
-71,5,5,49,7,11,1,0,63.64,c Ajith Augastin b Laksh Bakrania,80
-72,5,5,53,17,28,3,0,60.71,st Omary Kitunda b Laksh Bakrania,80
-73,5,5,93,1,5,0,0,20.0,lbw b Yalinde Nkanya,81
-74,5,5,56,12,26,0,0,46.15,c (sub)Ally Hafidhi b Kassim Nassoro,76
-75,5,5,94,0,3,0,0,0.0,b Yalinde Nkanya,81
-76,5,5,50,3,11,0,0,27.27,c Mukesh Suthar b Ajith Augastin,73
-77,5,5,51,1,14,0,0,7.14,c (sub)Ally Hafidhi b Ajith Augastin,73
-78,5,5,57,2,19,0,0,10.53,not out,
-79,5,5,95,1,2,0,0,50.0,b Kassim Nassoro,76
-80,5,5,55,0,0,0,0,0.0,not out,
-81,6,8,82,13,20,1,0,65.0,b Vincent Ateak,46
-82,6,8,83,8,9,1,0,88.89,lbw b Obed Harvey,38
-83,6,8,84,12,19,0,0,63.16,b Lee Nyarko,44
-84,6,8,85,3,11,0,0,27.27,c Lee Nyarko b Obed Harvey,38
-85,6,8,88,3,11,0,0,27.27,b Bharani Majji,47
-86,6,8,86,7,13,0,0,53.85,b Lee Nyarko,44
-87,6,8,87,2,7,0,0,28.57,st Frank Baaleri b Shijo Devasia,98
-88,6,8,89,2,10,0,0,20.0,b Bharani Majji,47
-89,6,8,90,2,6,0,0,33.33,run out (Bharani Majji/Frank Baaleri),
-90,6,8,91,6,8,0,0,75.0,run out (Devender Singh/Frank Baaleri),
-91,6,8,92,9,6,1,0,150.0,not out,
-92,6,3,36,44,22,7,2,200.0,not out,
-93,6,3,37,21,14,3,0,150.0,b Aiden Leo,87
-94,6,3,38,8,5,1,0,160.0,not out,
-95,7,4,25,21,16,5,0,131.25,c Donnex Kansonkho b Kelvin Thuchila,65
-96,7,4,35,1,4,0,0,25.0,b Kelvin Thuchila,65
-97,7,4,26,0,1,0,0,0.0,b Kelvin Thuchila,65
-98,7,4,27,7,13,1,0,53.85,c Blessings Pondani b Kelvin Thuchila,65
-99,7,4,30,0,2,0,0,0.0,lbw b Kelvin Thuchila,65
-100,7,4,31,0,1,0,0,0.0,b Kelvin Thuchila,65
-101,7,4,29,17,24,3,0,70.83,b Daniel Jakiel,62
-102,7,4,32,3,10,0,0,30.0,c Kazim Somani b Suhail Vayani,100
-103,7,4,34,16,11,0,2,145.45,c Aaftab Limdawala b Suhail Vayani,100
-104,7,4,33,1,6,0,0,16.67,lbw b Sami Sohail,67
-105,7,4,28,2,4,0,0,50.0,not out,
-106,7,6,63,8,4,2,0,200.0,c Hujeifa Jangariya b Saqib Anwar,33
-107,7,6,67,50,19,8,2,263.16,not out,
-108,7,6,66,8,12,1,0,66.67,c Mancoba Jele b Umair Qasim,35
-109,7,6,64,7,6,1,0,116.67,not out,
+1,1,1,1,43,69,1,0,62.32,b Jiten Ramanandi,17
+2,1,1,2,21,44,1,1,47.73,c Jatinder Singh b Hassnain Shah,20
+3,1,1,3,13,29,0,0,44.83,c Vinayak Shukla b Hassnain Shah,20
+4,1,1,4,54,55,4,1,98.18,c Pruthvikumar Macchi b Shakeel Ahmed,14
+5,1,1,5,32,48,2,0,66.67,c Hammad Mirza b Shakeel Ahmed,14
+6,1,1,6,24,17,0,3,141.18,c Mujibur Ali b Wasim Ali,18
+7,1,1,7,42,22,6,1,190.91,c Vinayak Shukla b Hassnain Shah,20
+8,1,1,8,30,17,2,1,176.47,not out,
+9,1,1,9,1,1,0,0,100.0,not out,
+10,1,2,12,11,29,1,0,37.93,c Jack Brassell b Max Heingo,11
+11,1,2,13,7,10,1,0,70.0,c Gerhard Erasmus b Max Heingo,11
+12,1,2,14,17,27,1,0,62.96,c Malan Kruger b Gerhard Erasmus,4
+13,1,2,15,112,128,12,1,87.5,not out,
+14,1,2,16,43,42,7,0,102.38,c Dylan Leicher b Jack Brassell,10
+15,1,2,17,0,1,0,0,0.0,c Zane Green b Jack Brassell,10
+16,1,2,18,62,49,3,2,126.53,c Jan Frylinck b Max Heingo,11
+17,1,2,19,11,9,1,0,122.22,b Gerhard Erasmus,4
+18,1,2,20,0,0,0,0,0.0,not out,
+19,1,1,10,0,0,0,0,0.0,did not bat,
+20,1,1,11,0,0,0,0,0.0,did not bat,
+21,1,2,21,0,0,0,0,0.0,did not bat,
+22,1,2,22,0,0,0,0,0.0,did not bat,
+23,3,4,23,18,19,2,0,94.74,b Riquelmi Nascimento,43
+24,3,4,24,14,13,0,1,107.69,c Chrystian Machado b Gabriel Oliveira,39
+25,3,4,25,4,4,1,0,100.0,c Luiz Morais b Riquelmi Nascimento,43
+26,3,4,26,5,9,1,0,55.56,c Chrystian Machado b Gabriel Oliveira,39
+27,3,4,27,27,24,1,1,112.5,b Luiz Gabriel Moras,41
+28,3,4,28,28,20,1,2,140.0,c Michel Assuncao b Luiz Muller,34
+29,3,4,29,3,7,0,0,42.86,c Luiz Muller b Luiz Goncalves,40
+30,3,4,30,1,3,0,0,33.33,batting,
+31,3,4,31,2,2,0,0,100.0,retd out,
+32,3,4,32,2,6,0,0,33.33,c and b Luiz Goncalves,40
+33,3,4,33,0,1,0,0,0.0,c Chrystian Machado b Luiz Goncalves,40
+34,3,5,34,38,21,5,1,180.95,c Gurpreet Singh b Gurpreet Singh,25
+35,3,5,35,59,30,8,3,196.67,c Kashigoud Patil b Gurpreet Singh,25
+36,3,5,36,6,15,0,0,40.0,not out,
+37,3,5,37,0,2,0,0,0.0,lbw b Gurpreet Singh,25
+38,3,5,38,0,0,0,0,0.0,not out,
+39,3,5,39,0,0,0,0,0.0,did not bat,
+40,3,5,40,0,0,0,0,0.0,did not bat,
+41,3,5,41,0,0,0,0,0.0,did not bat,
+42,3,5,42,0,0,0,0,0.0,did not bat,
+43,3,5,43,0,0,0,0,0.0,did not bat,
+44,3,5,44,0,0,0,0,0.0,did not bat,
+45,4,6,45,15,21,1,0,71.43,c Seetharam Guruvayoorappan b Shubhang Sharma,29
+46,4,6,46,13,9,1,1,144.44,b Sumeet Lahiri,32
+47,4,6,47,0,4,0,0,0.0,c Dhananjaya Panda b Sumeet Lahiri,32
+48,4,6,48,0,1,0,0,0.0,b Sumeet Lahiri,32
+49,4,6,49,0,1,0,0,0.0,lbw b Sumeet Lahiri,32
+50,4,6,50,1,8,0,0,12.5,c Devjani Mutreja b Pratik Singh,60
+51,4,6,51,0,2,0,0,0.0,c Seetharam Guruvayoorappan b Matthew Noble,58
+52,4,6,52,3,8,0,0,37.5,lbw b Shubhang Sharma,29
+53,4,6,53,7,6,0,1,116.67,b Sumeet Lahiri,32
+54,4,6,54,1,11,0,0,9.09,not out,
+55,4,6,55,0,6,0,0,0.0,c Seetharam Guruvayoorappan b Devjani Mutreja,31
+56,4,4,56,25,18,1,2,138.89,c Tangella Amresh b Joel Cutinho,46
+57,4,4,57,0,2,0,0,0.0,c Suyog Wankhade b Oswald Sam Arthur,54
+58,4,4,27,9,8,0,0,112.5,not out,
+59,4,4,24,5,6,1,0,83.33,not out,
+60,4,4,33,0,0,0,0,0.0,did not bat,
+61,4,4,31,0,0,0,0,0.0,did not bat,
+62,4,4,29,0,0,0,0,0.0,did not bat,
+63,4,4,25,0,0,0,0,0.0,did not bat,
+64,4,4,58,0,0,0,0,0.0,did not bat,
+65,4,4,59,0,0,0,0,0.0,did not bat,
+66,4,4,32,0,0,0,0,0.0,did not bat,
+67,5,5,34,15,14,2,0,107.14,b Sachin Ravikumar,47
+68,5,5,35,34,32,3,2,106.25,b Oswald Sam Arthur,54
+69,5,5,36,32,27,2,1,118.52,c Yeudy Altamirano b Joel Cutinho,46
+70,5,5,37,4,7,1,0,57.14,c Imran Ahmed Kaneez b Joel Cutinho,46
+71,5,5,38,0,3,0,0,0.0,c Suyog Wankhade b Sham Murari,48
+72,5,5,40,24,22,2,1,109.09,not out,
+73,5,5,42,4,6,0,0,66.67,c TV Badri Narayanan b Joel Cutinho,46
+74,5,5,61,6,3,1,0,200.0,c Sachin Ravikumar b Joel Cutinho,46
+75,5,5,39,10,6,1,1,166.67,not out,
+76,5,6,51,0,6,0,0,0.0,b Luiz Morais,35
+77,5,6,52,0,2,0,0,0.0,c William Maximo b Luiz Goncalves,40
+78,5,6,47,22,30,1,1,73.33,c Michel Assuncao b Yasar Haroon,36
+79,5,6,46,3,7,0,0,42.86,c Yasar Haroon b Luiz Morais,35
+80,5,6,63,3,18,0,0,16.67,c Luiz Morais b Yasar Haroon,36
+81,5,6,45,3,4,0,0,75.0,b Gabriel Oliveira,39
+82,5,6,50,19,32,0,0,59.38,st Chrystian Machado b Caique Cirino,62
+83,5,6,64,16,16,1,1,100.0,not out,
+84,5,6,54,2,6,0,0,33.33,not out,
+85,5,5,44,0,0,0,0,0.0,did not bat,
+86,5,5,62,0,0,0,0,0.0,did not bat,
+87,5,6,55,0,0,0,0,0.0,did not bat,
+88,5,6,48,0,0,0,0,0.0,did not bat,
+89,6,4,23,24,26,2,0,92.31,st Lucas Maximo b Yasar Haroon,36
+90,6,4,57,36,27,3,3,133.33,b Luiz Goncalves,40
+91,6,4,26,9,9,2,0,100.0,b Yasar Haroon,36
+92,6,4,27,13,19,0,1,68.42,c Chrystian Machado b Luiz Muller,34
+93,6,4,28,27,13,2,2,207.69,b Luiz Muller,34
+94,6,4,30,1,1,0,0,100.0,run out (Luiz Goncalves/Gabriel Oliveira),
+95,6,4,29,21,16,0,3,131.25,b Luiz Morais,35
+96,6,4,31,4,5,0,0,80.0,run out (Luiz Muller/Lucas Maximo),
+97,6,4,32,1,1,0,0,100.0,not out,
+98,6,4,33,0,1,0,0,0.0,c Luiz Muller b Luiz Morais,35
+99,6,4,65,3,3,0,0,100.0,not out,
+100,6,5,34,21,16,2,1,131.25,c and b Sumeet Lahiri,32
+101,6,5,35,27,26,2,1,103.85,c Kashigoud Patil b Shubhang Sharma,29
+102,6,5,37,13,12,1,0,108.33,c Pratik Singh b Sumeet Lahiri,32
+103,6,5,38,14,13,1,0,107.69,b Ankush Singh,57
+104,6,5,36,1,4,0,0,25.0,b Sumeet Lahiri,32
+105,6,5,42,17,19,1,0,89.47,b Amir Butt,28
+106,6,5,40,11,11,1,0,100.0,run out (Kashigoud Patil/Devon Ebersohn),
+107,6,5,41,13,14,2,0,92.86,run out (Amir Butt),
+108,6,5,39,11,5,1,1,220.0,not out,
+109,6,5,43,1,1,0,0,100.0,not out,
+110,6,5,66,0,0,0,0,0.0,did not bat,
+111,7,6,45,1,14,0,0,7.14,b Luiz Gabriel,68
+112,7,6,46,1,4,0,0,25.0,run out (Michel Assuncao/Chrystian Machado),
+113,7,6,50,17,41,1,0,41.46,b Yasar Haroon,36
+114,7,6,63,7,11,1,0,63.64,lbw b Yasar Haroon,36
+115,7,6,47,6,8,0,0,75.0,c Chrystian Machado b Luiz Goncalves,40
+116,7,6,55,11,21,0,0,52.38,c Chrystian Machado b Gabriel Oliveira,39
+117,7,6,49,0,1,0,0,0.0,c Chrystian Machado b Luiz Goncalves,40
+118,7,6,53,2,3,0,0,66.67,b Gabriel Oliveira,39
+119,7,6,64,5,8,0,0,62.5,c Gabriel Oliveira b Riquelmi Nascimento,43
+120,7,6,48,0,1,0,0,0.0,not out,
+121,7,6,67,1,6,0,0,16.67,b Luiz Morais,35
+122,7,5,34,34,22,6,0,154.55,not out,
+123,7,5,35,29,15,5,1,193.33,not out,
+124,7,5,37,0,0,0,0,0.0,did not bat,
+125,7,5,38,0,0,0,0,0.0,did not bat,
+126,7,5,39,0,0,0,0,0.0,did not bat,
+127,7,5,40,0,0,0,0,0.0,did not bat,
+128,7,5,61,0,0,0,0,0.0,did not bat,
+129,7,5,43,0,0,0,0,0.0,did not bat,
+130,7,5,42,0,0,0,0,0.0,did not bat,
+131,7,5,36,0,0,0,0,0.0,did not bat,
+132,7,5,44,0,0,0,0,0.0,did not bat,
+133,8,4,24,1,3,0,0,33.33,c Suyog Wankhade b Sudesh Pillai,63
+134,8,4,59,1,4,0,0,25.0,c Sudesh Pillai b Imran Ahmed Kaneez,55
+135,8,4,26,32,20,2,3,160.0,c TV Badri Narayanan b Joel Cutinho,46
+136,8,4,23,26,21,1,1,123.81,c Imran Ahmed Kaneez b Sham Murari,48
+137,8,4,27,56,34,7,1,164.71,not out,
+138,8,4,28,73,38,3,6,192.11,run out (Sachin Ravikumar),
+139,8,6,45,3,15,0,0,20.0,b Hassan Nasir,65
+140,8,6,46,11,21,1,0,52.38,b Shubhang Sharma,29
+141,8,6,50,0,0,0,0,0.0,run out (Shantanu Kaveri),
+142,8,6,63,24,29,1,2,82.76,c Shubhang Sharma b Dhananjaya Panda,27
+143,8,6,47,5,13,0,0,38.46,c Seetharam Guruvayoorappan b Dhananjaya Panda,27
+144,8,6,51,7,17,1,0,41.18,b Jayanth Byrappa,24
+145,8,6,49,10,14,0,0,71.43,not out,
+146,8,6,52,1,8,0,0,12.5,b Jayanth Byrappa,24
+147,8,6,48,1,3,0,0,33.33,not out,
+148,8,4,31,0,0,0,0,0.0,did not bat,
+149,8,4,33,0,0,0,0,0.0,did not bat,
+150,8,4,65,0,0,0,0,0.0,did not bat,
+151,8,4,29,0,0,0,0,0.0,did not bat,
+152,8,4,56,0,0,0,0,0.0,did not bat,
+153,8,6,55,0,0,0,0,0.0,did not bat,
+154,8,6,54,0,0,0,0,0.0,did not bat,
+155,9,4,24,9,9,0,1,100.0,run out (Michel Assuncao/Lucas Maximo),
+156,9,4,23,2,3,0,0,66.67,b Riquelmi Nascimento,43
+157,9,4,25,37,32,3,1,115.62,c Lucas Maximo b Luiz Gabriel,68
+158,9,4,26,25,22,3,0,113.64,c Chrystian Machado b Luiz Gabriel,68
+159,9,4,28,8,10,0,1,80.0,c Michel Assuncao b Yasar Haroon,36
+160,9,4,27,27,25,2,1,108.0,st Lucas Maximo b Luiz Muller,34
+161,9,4,30,20,18,2,0,111.11,not out,
+162,9,4,58,1,2,0,0,50.0,not out,
+163,9,5,34,26,20,3,1,130.0,c Gurpreet Singh b Pratik Singh,60
+164,9,5,35,54,56,2,2,96.43,not out,
+165,9,5,36,36,35,4,1,102.86,c Devon Ebersohn b Amir Butt,28
+166,9,5,37,2,4,0,0,50.0,c Jayanth Byrappa b Amir Butt,28
+167,9,5,42,1,3,0,0,33.33,c Dhananjaya Panda b Devjani Mutreja,31
+168,9,5,40,6,2,1,0,300.0,not out,
+169,9,4,31,0,0,0,0,0.0,did not bat,
+170,9,4,33,0,0,0,0,0.0,did not bat,
+171,9,4,56,0,0,0,0,0.0,did not bat,
+172,9,5,38,0,0,0,0,0.0,did not bat,
+173,9,5,39,0,0,0,0,0.0,did not bat,
+174,9,5,66,0,0,0,0,0.0,did not bat,
+175,9,5,61,0,0,0,0,0.0,did not bat,
+176,9,5,43,0,0,0,0,0.0,did not bat,
+177,10,7,69,0,4,0,0,0.0,b Upen Shantu,90
+178,10,7,70,6,7,1,0,85.71,b Jeremy Martins,82
+179,10,7,71,12,6,3,0,200.0,c Chad Potgieter b Jeremy Martins,82
+180,10,7,72,44,45,3,0,97.78,not out,
+181,10,7,73,30,22,3,1,136.36,c Rahulkumar Hashu b Conrad Greenshields,84
+182,10,7,74,7,12,0,0,58.33,b Conrad Greenshields,84
+183,10,7,75,20,9,0,3,222.22,c Jeremy Martins b Rahulkumar Hashu,88
+184,10,7,76,0,1,0,0,0.0,b Conrad Greenshields,84
+185,10,7,77,2,3,0,0,66.67,b Rahulkumar Hashu,88
+186,10,7,78,1,7,0,0,14.29,b Upen Shantu,90
+187,10,7,79,0,0,0,0,0.0,run out (Conrad Greenshields/Rahulkumar Hashu),
+188,10,8,80,52,29,5,2,179.31,c and b Mohammad Khan Rafah,75
+189,10,8,81,2,4,0,0,50.0,st Lingeswaran Canessane b Rahimgul Naseri,79
+190,10,8,82,35,22,2,2,159.09,b Dawood Ahmadzai,78
+191,10,8,83,11,5,1,1,220.0,c Rahimgul Naseri b Dawood Ahmadzai,78
+192,10,8,84,14,20,1,0,70.0,not out,
+193,10,8,85,12,10,1,1,120.0,not out,
+194,10,8,86,0,0,0,0,0.0,did not bat,
+195,10,8,87,0,0,0,0,0.0,did not bat,
+196,10,8,88,0,0,0,0,0.0,did not bat,
+197,10,8,89,0,0,0,0,0.0,did not bat,
+198,10,8,90,0,0,0,0,0.0,did not bat,
+199,11,9,91,24,19,1,1,126.32,run out (Mohammad Khan Rafah/Lingeswaran Canessane),
+200,11,9,92,38,38,1,3,100.0,b Zada Sher,73
+201,11,9,93,41,34,3,1,120.59,b Usman Khan,77
+202,11,9,94,34,15,3,3,226.67,c Dawood Ahmadzai b Usman Khan,77
+203,11,9,95,2,2,0,0,100.0,c Dawood Ahmadzai b Mohammad Khan Rafah,75
+204,11,9,96,1,3,0,0,33.33,c Gustav Mckeon b Usman Khan,77
+205,11,9,97,0,2,0,0,0.0,b Usman Khan,77
+206,11,9,98,1,2,0,0,50.0,c Rahimgul Naseri b Mohammad Khan Rafah,75
+207,11,9,99,1,2,0,0,50.0,not out,
+208,11,9,100,0,1,0,0,0.0,b Mohammad Khan Rafah,75
+209,11,9,101,1,2,0,0,50.0,not out,
+210,11,7,69,4,5,1,0,80.0,b Vinay Ravi,98
+211,11,7,70,29,18,4,1,161.11,st Khizer Ahmed b Muhammad Butt,101
+212,11,7,71,6,4,1,0,150.0,c Kuruge Abeyrathna b Vinay Ravi,98
+213,11,7,72,53,45,4,0,117.78,b Vinay Ravi,98
+214,11,7,76,13,12,0,1,108.33,c Vinay Ravi b Kuruge Abeyrathna,92
+215,11,7,75,1,3,0,0,33.33,b Kuruge Abeyrathna,92
+216,11,7,73,0,1,0,0,0.0,c Kuruge Abeyrathna b Muhammad Butt,101
+217,11,7,77,3,5,0,0,60.0,st Khizer Ahmed b Kuruge Abeyrathna,92
+218,11,7,78,19,18,2,0,105.56,b Qamar Mushtaque,99
+219,11,7,79,0,1,0,0,0.0,b Vinay Ravi,98
+220,11,7,102,1,2,0,0,50.0,not out,

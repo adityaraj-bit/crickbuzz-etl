@@ -1,101 +1,103 @@
 player_id,full_name,country_name,date_of_birth,birth_place,primary_role,batting_style,bowling_style
-1,jayanth byrappa,Mexico,"October 12, 1986 (39 years)",,,Right Handed Bat,Right-arm medium
-2,shantanu kaveri,Mexico,"February 01, 1979 (47 years)",,,Right Handed Bat,Right-arm medium
-3,gurpreet singh,Mexico,"February 24, 1999 (27 years)",,,Right Handed Bat,Right-arm offbreak
-4,kashigoud patil,Mexico,"July 20, 1990 (35 years)",,,Right Handed Bat,
-5,amir butt,Mexico,"August 10, 1979 (46 years)",,,Right Handed Bat,Right-arm medium
-6,dhananjaya panda,Mexico,"December 30, 1997 (28 years)",,,Right Handed Bat,Right-arm fast-medium
-7,devon ebersohn,Mexico,"November 19, 1980 (45 years)",,,Right Handed Bat,Right-arm offbreak
-8,matthew noble,Mexico,"November 08, 1992 (33 years)",,,Left Handed Bat,Left-arm medium
-9,devjani mutreja,Mexico,"March 30, 2008 (18 years)",,,Right Handed Bat,Right-arm medium
-10,pratik singh bais,Mexico,"February 20, 1998 (28 years)",,,Right Handed Bat,Right-arm fast-medium
-11,gutierrez chavez,Mexico,"December 24, 2001 (24 years)",,,Right Handed Bat,Right-arm medium
-12,michel assuncao,Brazil,"May 17, 2000 (25 years)",,,Right Handed Bat,
-13,chrystian machado,Brazil,"February 28, 2004 (22 years)",,,Right Handed Bat,
-14,gabriel oliveira,Brazil,"August 04, 1996 (29 years)",,,Right Handed Bat,Right-arm medium
-15,lucas maximo,Brazil,"December 30, 2000 (25 years)",,,Right Handed Bat,Right-arm medium
-16,luiz goncalves,Brazil,"February 03, 1988 (38 years)","Poços de Caldas, Brazil",,Right Handed Bat,
-17,luiz muller,Brazil,"July 30, 2005 (20 years)",,,Right Handed Bat,Left-arm fast-medium
-18,luiz moras,Brazil,"January 26, 2009 (17 years)",,,Right Handed Bat,Right-arm medium
-19,luiz morais,Brazil,"March 18, 2002 (24 years)",,,Right Handed Bat,Right-arm medium
-20,riquelmi nascimento,Brazil,"June 12, 2007 (18 years)",,,Right Handed Bat,Right-arm medium
-21,william maximo,Brazil,"December 30, 2000 (25 years)",,,Right Handed Bat,Right-arm medium
-22,yasar haroon,Brazil,"December 23, 1984 (41 years)",,,Right Handed Bat,Right-arm offbreak
-23,luiz gabriel,Unknown,,,,,
-24,pratik singh,Unknown,,,,,
-25,adil butt,Eswatini,"December 31, 1988 (37 years)",,,Right Handed Bat,Right-arm fast-medium
-26,eric phiri,Eswatini,"November 07, 1995 (30 years)",,,Right Handed Bat,Right-arm offbreak
-27,hujeifa jangariya,Eswatini,"February 17, 1996 (30 years)",,,Right Handed Bat,
-28,mancoba jele,Eswatini,"January 21, 1998 (28 years)",,,Right Handed Bat,Right-arm fast-medium
-29,melusi magagula,Eswatini,"November 26, 1994 (31 years)",,,Right Handed Bat,Right-arm medium
-30,minhaz khojbariya,Eswatini,"March 03, 1999 (27 years)",,,Left Handed Bat,Left-arm orthodox
-31,mohammed alamgir,Eswatini,"April 20, 1991 (34 years)",,,Right Handed Bat,Right-arm offbreak
-32,rohan sandeep,Eswatini,"March 02, 2003 (23 years)",,,Right Handed Bat,Right-arm medium
-33,saqib anwar,Eswatini,"July 07, 1995 (30 years)",,,Right Handed Bat,Right-arm medium
-34,sibusiso jele,Eswatini,"August 03, 2000 (25 years)",,,Left Handed Bat,Left-arm fast
-35,umair qasim,Eswatini,"December 20, 1994 (31 years)",,,Right Handed Bat,Right-arm offbreak
-36,jayant gautam,Ghana,,,,Right Handed Bat,
-37,richmond baaleri,Ghana,"August 16, 2002 (23 years)",,,Right Handed Bat,Right-arm offbreak
-38,obed harvey,Ghana,"June 01, 1990 (35 years)",Ghana,,Left Handed Bat,Left-arm medium
-39,bharani kumar majji,Ghana,"June 24, 1992 (33 years)",,,Right Handed Bat,Right-arm offbreak
-40,isaac aboagye,Ghana,"December 27, 1995 (30 years)",,,Right Handed Bat,Right-arm medium
-41,frank baaleri,Ghana,"October 22, 1998 (27 years)",,,Right Handed Bat,
-42,ayushmaan mishra,Ghana,"June 07, 2002 (23 years)",,,Right Handed Bat,Right-arm offbreak
-43,judah solomon,Ghana,"June 02, 1995 (30 years)",,,Left Handed Bat,Left-arm orthodox
-44,lee nyarko,Ghana,,,,Left Handed Bat,
-45,nitesh,Ghana,"May 01, 1999 (26 years)",,,Right Handed Bat,Right-arm medium
-46,vincent ateak,Ghana,"May 10, 1997 (28 years)",,,Left Handed Bat,Left-arm orthodox
-47,bharani majji,Unknown,,,,,
-48,rashen de silva,Seychelles,"August 09, 1991 (34 years)",Colombo,,Right Handed Bat,Right-arm legbreak
-49,thiwanka rajapaksha,Seychelles,"September 11, 1992 (33 years)",,,Right Handed Bat,Right-arm fast-medium
-50,deso kalvin,Seychelles,"May 13, 1987 (38 years)",,,Right Handed Bat,Right-arm medium
-51,jobayer hossen,Seychelles,"November 05, 1994 (31 years)",,,Right Handed Bat,
-52,hirani lalji harji,Seychelles,"August 04, 1988 (37 years)",,,Right Handed Bat,Right-arm fast-medium
-53,mazharul islam,Seychelles,"January 01, 1994 (32 years)",,,Right Handed Bat,
-54,saddam md,Seychelles,,,,Left Handed Bat,Right-arm fast-medium
-55,samarathunga rukmal,Seychelles,"February 22, 1994 (32 years)",,,Right Handed Bat,Left-arm medium
-56,shanmugasundram mohan,Seychelles,"May 16, 1989 (36 years)",,,Right Handed Bat,
-57,thilina silva,Seychelles,,,,Right Handed Bat,
-58,santosh pillay,Seychelles,"October 13, 1987 (38 years)",,,Right Handed Bat,Right-arm fast-medium
-59,aaftab limdawala,Malawi,,,,Right Handed Bat,Right-arm medium
-60,blessings pondani,Malawi,"April 17, 2002 (23 years)",,,Right Handed Bat,Right-arm fast-medium
-61,bright balala,Malawi,,,,Left Handed Bat,
-62,daniel jakiel,Zimbabwe,"November 14, 1990 (35 years)","Mabvuku, Harare",,Right Handed Bat,Right-arm fast-medium
-63,donnex kansonkho,Malawi,"December 06, 1998 (27 years)",,,Left Handed Bat,Right-arm medium
-64,gift kansonkho,Malawi,"May 20, 1991 (34 years)",,,Right Handed Bat,Right-arm medium
-65,kelvin thuchila,Malawi,,,,Left Handed Bat,
-66,mike choamba,Malawi,"July 10, 2004 (21 years)",,,Right Handed Bat,Right-arm offbreak
-67,sami sohail,Malawi,"January 29, 2002 (24 years)",,,Right Handed Bat,Right-arm medium
-68,suhail zahid vayani,Malawi,"February 27, 2008 (18 years)",,,Right Handed Bat,Right-arm offbreak
-69,trust makaya,Malawi,,,,Right Handed Bat,Right-arm medium
-70,lalji hirani,Unknown,,,,,
-71,dhrumit mehta,Tanzania,"April 21, 2003 (22 years)",,,Right Handed Bat,Right-arm offbreak
-72,ivan selemani,Tanzania,"June 20, 2000 (25 years)",Mvomero,,Right Handed Bat,Right-arm offbreak
-73,ajith augastin,Tanzania,"November 25, 1995 (30 years)",,,Left Handed Bat,Right-arm fast-medium
-74,arun yadav,Tanzania,"February 05, 1992 (34 years)",,,Right Handed Bat,Right-arm medium
-75,mukesh suthar,Tanzania,"September 27, 1997 (28 years)",,,Right Handed Bat,
-76,kassim nassoro,Tanzania,"May 13, 1988 (37 years)","Dar es Salaam, Tanzania",,Right Handed Bat,Right-arm offbreak
-77,omary kitunda,Tanzania,"June 28, 1999 (26 years)",Ilala,,Right Handed Bat,
-78,ally kimote,Tanzania,"May 26, 1992 (33 years)",Tanzania,,Right Handed Bat,Right-arm medium
-79,khalidy juma,Tanzania,"December 07, 2008 (17 years)",,,Right Handed Bat,Right-arm medium
-80,laksh bakrania,Tanzania,"September 29, 2007 (18 years)",,,Left Handed Bat,Left-arm orthodox
-81,yalinde nkanya,Tanzania,"June 22, 2003 (22 years)",,,Right Handed Bat,Left-arm orthodox
-82,jamie essex,Saint Helena,"June 21, 1994 (31 years)",,,Right Handed Bat,Right-arm offbreak
-83,delroy leo,Saint Helena,"June 19, 1989 (36 years)",,,Left Handed Bat,
-84,jordi henry,St Helena,"February 16, 1999 (27 years)",,,Right Handed Bat,
-85,andrew yon,St Helena,"October 13, 1996 (29 years)",,,Right Handed Bat,
-86,joey thomas,Saint Helena,"November 01, 2003 (22 years)",,,Right Handed Bat,Right-arm fast-medium
-87,aiden leo,St Helena,"February 01, 2000 (26 years)",,,Right Handed Bat,Right-arm medium
-88,rhys francis,St Helena,"June 02, 2000 (25 years)",,,Right Handed Bat,
-89,cliff richards,St Helena,"April 02, 1991 (35 years)",,,Right Handed Bat,Right-arm medium
-90,dane leo,Saint Helena,"April 26, 1994 (31 years)",,,Right Handed Bat,Right-arm fast-medium
-91,barry stroud,St Helena,"February 28, 1990 (36 years)",,,Right Handed Bat,Right-arm fast-medium
-92,jordan yon,St Helena,"April 05, 1997 (28 years)",,,Right Handed Bat,Right-arm fast-medium
-93,manikandan mariyappan,Seychelles,"July 31, 1996 (29 years)",,,Right Handed Bat,
-94,manisankar viswanathan,Seychelles,"May 14, 1996 (29 years)",,,Right Handed Bat,
-95,nagarajan gnanapragasam,Seychelles,"November 29, 1985 (40 years)",,,Right Handed Bat,Right-arm medium
-96,philip yevugah,Ghana,"November 24, 1999 (26 years)",,,Right Handed Bat,
-97,devender singh malik,Ghana,"October 09, 1990 (35 years)",,,Right Handed Bat,
-98,shijo devasia,Ghana,"May 23, 1983 (42 years)",,,Right Handed Bat,Right-arm legbreak
-99,kazim somani,Malawi,"October 14, 2005 (20 years)",,,Right Handed Bat,Right-arm medium
-100,suhail vayani,Unknown,,,,,
+1,willem myburgh,Namibia,2000-12-01,,Bowler,Right Handed Bat,Right-arm legbreak
+2,malan kruger,Namibia,1995-04-12,Namibia,Batsman,Right Handed Bat,
+3,jan frylinck,Namibia,1994-04-06,"Bellville, Western Cape",Batting Allrounder,Left Handed Bat,Left-arm fast-medium
+4,gerhard erasmus,Namibia,1995-04-11,,Batting Allrounder,Right Handed Bat,Right-arm offbreak
+5,louren steenkamp,Namibia,1997-05-08,,Batting Allrounder,Right Handed Bat,Right-arm offbreak
+6,jj smit,Namibia,1995-11-10,keetmanshoop,Bowling Allrounder,Right Handed Bat,Left-arm fast-medium
+7,zane green,Namibia,1996-10-11,Namibia,WK-Batsman,Left Handed Bat,
+8,dylan leicher,Namibia,2004-05-03,,Batting Allrounder,Right Handed Bat,Right-arm medium
+9,bernard scholtz,Namibia,1990-10-03,"Keetmanshoop, Namibia",Bowler,Right Handed Bat,Left-arm orthodox
+10,jack brassell,Namibia,2005-03-31,,Bowler,Right Handed Bat,Right-arm medium
+11,max heingo,Namibia,2008-03-08,,Bowler,Right Handed Bat,Right-arm medium
+12,jatinder singh,Oman,1989-03-05,,Batsman,Right Handed Bat,Right-arm offbreak
+13,pruthvikumar macchi,Oman,1995-01-21,"Valsad, Gujarat",Bowler,Left Handed Bat,Left-arm orthodox
+14,shakeel ahmed,Oman,1988-02-04,"Mardan, North-West Frontier Province",Bowler,Left Handed Bat,Left-arm orthodox
+15,hammad mirza,Oman,1998-05-12,,WK-Batsman,Right Handed Bat,
+16,mujibur ali,Oman,1996-09-30,"Charaideo, Assam",Bowling Allrounder,Left Handed Bat,Left-arm medium
+17,jiten ramanandi,Oman,1994-09-15,,Bowling Allrounder,Left Handed Bat,Left-arm medium
+18,wasim ali,Oman,1998-12-07,,Batting Allrounder,Left Handed Bat,Left-arm orthodox
+19,vinayak shukla,Oman,1994-06-18,,WK-Batsman,Right Handed Bat,
+20,hassnain shah,Oman,1996-12-10,,Batting Allrounder,Right Handed Bat,Right-arm medium
+21,jay odedra,Oman,1989-11-05,"Porbandar, Saurashtra",Bowling Allrounder,Right Handed Bat,Right-arm offbreak
+22,shah faisal,Oman,1997-01-05,,Bowler,Left Handed Bat,Left-arm fast-medium
+23,shantanu kaveri,Mexico,1979-02-01,,Batting Allrounder,Right Handed Bat,Right-arm medium
+24,jayanth byrappa,Mexico,1986-10-12,,Bowling Allrounder,Right Handed Bat,Right-arm medium
+25,gurpreet singh,Mexico,1999-02-24,,Batting Allrounder,Right Handed Bat,Right-arm offbreak
+26,kashigoud patil,Mexico,1990-07-20,,Batsman,Right Handed Bat,
+27,dhananjaya panda,Mexico,1997-12-30,,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium
+28,amir butt,Mexico,1979-08-10,,Batsman,Right Handed Bat,Right-arm medium
+29,shubhang sharma,Mexico,1997-01-01,,Bowler,Right Handed Bat,Right-arm medium
+30,devon ebersohn,Mexico,1980-11-19,,Bowling Allrounder,Right Handed Bat,Right-arm offbreak
+31,devjani mutreja,Mexico,2008-03-30,,Bowling Allrounder,Right Handed Bat,Right-arm medium
+32,sumeet lahiri,Mexico,1994-10-14,,Bowler,Right Handed Bat,Right-arm medium
+33,pratik singh bais,Mexico,1998-02-20,,Bowler,Right Handed Bat,Right-arm fast-medium
+34,luiz muller,Brazil,2005-07-30,,Batting Allrounder,Right Handed Bat,Left-arm fast-medium
+35,luiz morais,Brazil,2002-03-18,,Batting Allrounder,Right Handed Bat,Right-arm medium
+36,yasar haroon,Brazil,1984-12-23,,Batting Allrounder,Right Handed Bat,Right-arm offbreak
+37,michel assuncao,Brazil,2000-05-17,,Bowling Allrounder,Right Handed Bat,
+38,chrystian machado,Brazil,2004-02-28,,WK-Batsman,Right Handed Bat,
+39,gabriel oliveira,Brazil,1996-08-04,,Bowler,Right Handed Bat,Right-arm medium
+40,luiz goncalves,Brazil,1988-02-03,"Poços de Caldas, Brazil",WK-Batsman,Right Handed Bat,
+41,luiz gabriel moras,Brazil,2009-01-26,,Batsman,Right Handed Bat,Right-arm medium
+42,william maximo,Brazil,2000-12-30,,Batting Allrounder,Right Handed Bat,Right-arm medium
+43,riquelmi nascimento,Brazil,2007-06-12,,Bowler,Right Handed Bat,Right-arm medium
+44,breno passoni,Brazil,2008-06-13,,Batting Allrounder,Right Handed Bat,Right-arm medium
+45,tv badri narayanan,Costa Rica,1984-11-07,,WK-Batsman,Right Handed Bat,Right-arm offbreak
+46,joel cutinho,Costa Rica,1983-12-08,,Batting Allrounder,Left Handed Bat,Right-arm offbreak
+47,sachin ravikumar,Costa Rica,1988-05-27,,,Right Handed Bat,Right-arm medium
+48,sham murari,Costa Rica,1980-12-28,,,Right Handed Bat,Right-arm medium
+49,ashar abbas,Costa Rica,1993-12-01,,Bowling Allrounder,Right Handed Bat,Right-arm medium
+50,suyog wankhade,Costa Rica,1994-06-02,,Batsman,Right Handed Bat,Right-arm medium
+51,kumar shivam,Costa Rica,1991-12-13,,WK-Batsman,Right Handed Bat,
+52,yeudy altamirano,Costa Rica,2001-04-18,,Batsman,Right Handed Bat,Right-arm medium
+53,tangella amresh,Costa Rica,1999-08-27,,Batsman,Right Handed Bat,Right-arm medium
+54,oswald sam arthur,Costa Rica,1975-05-14,,Batting Allrounder,Right Handed Bat,Right-arm medium
+55,imran ahmed kaneez,Costa Rica,1989-04-13,,,Right Handed Bat,Right-arm medium
+56,gutierrez chavez,Mexico,2001-12-24,,,Right Handed Bat,Right-arm medium
+57,ankush singh,Mexico,1998-08-24,,Bowler,Right Handed Bat,Right-arm medium
+58,matthew noble,Mexico,1992-11-08,,Batsman,Left Handed Bat,Left-arm medium
+59,seetharam guruvayoorappan,Mexico,1982-07-20,,WK-Batsman,Left Handed Bat,
+60,pratik singh,Unknown,,,,,
+61,luiz moras,Brazil,2009-01-26,,Batsman,Right Handed Bat,Right-arm medium
+62,caique cirino,Brazil,,,Bowling Allrounder,Right Handed Bat,Right-arm offbreak
+63,sudesh pillai,Costa Rica,1984-06-13,,,Right Handed Bat,Right-arm medium
+64,shiva k,Costa Rica,,,Bowler,Right Handed Bat,Right-arm fast-medium
+65,hassan nasir,Mexico,1993-10-19,,Batsman,Right Handed Bat,Right-arm medium
+66,lucas maximo,Brazil,2000-12-30,,Batting Allrounder,Right Handed Bat,Right-arm medium
+67,pusharaj naringrekar,Costa Rica,1988-12-31,,Batsman,Right Handed Bat,Right-arm medium
+68,luiz gabriel,Unknown,,,,,
+69,gustav mckeon,France,2003-10-18,,Batsman,Right Handed Bat,Right-arm medium
+70,nasibullah arab,France,1997-01-01,,Batting Allrounder,Right Handed Bat,Right-arm medium
+71,noman amjad,France,2004-06-30,,Bowler,Right Handed Bat,Right-arm fast-medium
+72,christian roberts,France,2003-10-22,,,Left Handed Bat,
+73,zada sher,France,1990-01-01,,Bowling Allrounder,Right Handed Bat,Right-arm offbreak
+74,jamshid nasiri,France,2004-07-16,,Bowling Allrounder,Right Handed Bat,
+75,mohammad khan rafah,France,2002-10-05,,Bowling Allrounder,Right Handed Bat,Right-arm medium
+76,lingeswaran canessane,France,2002-11-18,Pondicherry,WK-Batsman,Right Handed Bat,
+77,usman khan,France,1990-10-06,,Batting Allrounder,Right Handed Bat,Right-arm medium
+78,dawood ahmadzai,France,1994-02-25,,Bowling Allrounder,Right Handed Bat,Right-arm medium
+79,rahimgul naseri,France,1999-01-01,,Bowler,Right Handed Bat,Right-arm offbreak
+80,dhavalkumar norotam,Portugal,1995-06-14,,Bowler,Right Handed Bat,
+81,christopher de freitas,Ireland,2002-02-06,Welkom,Batsman,Left Handed Bat,Right-arm medium
+82,jeremy martins,Portugal,2001-06-11,,Bowler,Right Handed Bat,Right-arm fast
+83,chad potgieter,Portugal,1999-03-19,,Batsman,Right Handed Bat,
+84,conrad greenshields,Portugal,1984-06-09,,Batsman,Right Handed Bat,Right-arm medium
+85,carlos nunes,Portugal,1984-02-14,,Batsman,Right Handed Bat,Right-arm medium
+86,sirajullah khadim,Portugal,1988-06-10,Brahmanbaria,Batsman,Left Handed Bat,Left-arm medium
+87,natim hassam,Portugal,1996-04-03,,Batsman,Right Handed Bat,Right-arm offbreak
+88,rahulkumar hashu,Portugal,2001-02-12,,,Right Handed Bat,Right-arm fast-medium
+89,teddy fleming,Portugal,2004-10-29,,Bowling Allrounder,Right Handed Bat,Right-arm medium
+90,upen shantu,Portugal,1997-04-26,,,Right Handed Bat,Left-arm medium
+91,khizer ahmed,Norway,1991-11-18,Karachi,WK-Batsman,Right Handed Bat,
+92,kuruge abeyrathna,Norway,1991-05-26,,WK-Batsman,Right Handed Bat,
+93,chaudhary akram,Norway,2004-09-13,,Batsman,Right Handed Bat,Right-arm medium
+94,ibrahim rahimi,Norway,2001-11-08,,Batsman,Right Handed Bat,
+95,faisal raza,Norway,1984-08-05,,Batsman,Right Handed Bat,Right-arm medium
+96,tafseer ali,Norway,1989-09-19,Lahore,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium
+97,junaid mehmood hussain,Norway,1993-09-30,,WK-Batsman,Right Handed Bat,
+98,vinay ravi,Norway,1989-11-17,,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium
+99,qamar mushtaque,Norway,1988-11-02,,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium
+100,ahmadullah shinwari,Norway,2000-07-30,,Bowler,Left Handed Bat,Left-arm fast-medium
+101,muhammad butt,Norway,1984-04-03,,Bowling Allrounder,Right Handed Bat,Right-arm legbreak
+102,zaheer zahiri,France,2002-11-05,,,Right Handed Bat,Left-arm medium

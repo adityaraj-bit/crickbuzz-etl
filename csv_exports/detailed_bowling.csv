@@ -1,0 +1,221 @@
+bowling_id,match_code,team_name,player_name,overs,runs_conceded,wickets,economy
+1,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,shah faisal,10.0,61,0,6.1
+2,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,shakeel ahmed,10.0,31,2,3.1
+3,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,mujibur ali,10.0,42,0,4.2
+4,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,hassnain shah,8.0,58,3,7.2
+5,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,jay odedra,5.0,27,0,5.4
+6,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,jiten ramanandi,5.0,26,1,5.2
+7,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,wasim ali,2.0,22,1,11.0
+8,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,jj smit,10.0,49,0,4.9
+9,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,max heingo,9.1,59,3,6.4
+10,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,jack brassell,10.0,61,2,6.1
+11,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,dylan leicher,1.0,5,0,5.0
+12,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,gerhard erasmus,9.0,54,2,6.0
+13,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,bernard scholtz,10.0,44,0,4.4
+14,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,willem myburgh,0.0,0,0,0.0
+15,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,malan kruger,0.0,0,0,0.0
+16,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,jan frylinck,0.0,0,0,0.0
+17,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,louren steenkamp,0.0,0,0,0.0
+18,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,zane green,0.0,0,0,0.0
+19,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,jatinder singh,0.0,0,0,0.0
+20,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,pruthvikumar macchi,0.0,0,0,0.0
+21,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,hammad mirza,0.0,0,0,0.0
+22,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,vinayak shukla,0.0,0,0,0.0
+23,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,luiz morais,2.0,16,0,8.0
+24,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,yasar haroon,2.0,10,0,5.0
+25,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,riquelmi nascimento,3.0,20,2,6.7
+26,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,gabriel oliveira,4.0,23,2,5.8
+27,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,luiz gabriel moras,4.0,23,1,5.8
+28,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,luiz muller,1.0,10,1,10.0
+29,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,luiz goncalves,2.0,7,3,3.5
+30,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,sumeet lahiri,2.0,23,0,11.5
+31,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,pratik singh bais,2.0,22,0,11.0
+32,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,amir butt,1.0,13,0,13.0
+33,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,dhananjaya panda,1.0,18,0,18.0
+34,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,gurpreet singh,3.0,14,3,4.7
+35,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,jayanth byrappa,2.0,17,0,8.5
+36,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,devjani mutreja,0.2,6,0,18.0
+37,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,0.0,0,0,0.0
+38,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,kashigoud patil,0.0,0,0,0.0
+39,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,shubhang sharma,0.0,0,0,0.0
+40,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,devon ebersohn,0.0,0,0,0.0
+41,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,michel assuncao,0.0,0,0,0.0
+42,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0.0,0,0,0.0
+43,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,william maximo,0.0,0,0,0.0
+44,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,breno passoni,0.0,0,0,0.0
+45,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,matthew noble,4.0,16,1,4.0
+46,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,sumeet lahiri,4.0,17,5,4.2
+47,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,pratik singh bais,2.0,5,1,2.5
+48,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,shubhang sharma,2.0,5,2,2.5
+49,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,devjani mutreja,0.5,2,1,2.4
+50,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,oswald sam arthur,2.0,17,1,8.5
+51,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,yeudy altamirano,1.0,16,0,16.0
+52,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,imran ahmed kaneez,1.3,12,0,8.0
+53,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,joel cutinho,1.0,2,1,2.0
+54,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,0.0,0,0,0.0
+55,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,sachin ravikumar,0.0,0,0,0.0
+56,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,sham murari,0.0,0,0,0.0
+57,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,ashar abbas,0.0,0,0,0.0
+58,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,suyog wankhade,0.0,0,0,0.0
+59,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,kumar shivam,0.0,0,0,0.0
+60,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,tangella amresh,0.0,0,0,0.0
+61,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,gutierrez chavez,0.0,0,0,0.0
+62,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,ankush singh,0.0,0,0,0.0
+63,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,dhananjaya panda,0.0,0,0,0.0
+64,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,jayanth byrappa,0.0,0,0,0.0
+65,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,gurpreet singh,0.0,0,0,0.0
+66,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,seetharam guruvayoorappan,0.0,0,0,0.0
+67,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,sudesh pillai,4.0,29,0,7.2
+68,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,imran ahmed kaneez,4.0,28,0,7.0
+69,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,sachin ravikumar,2.0,20,1,10.0
+70,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,suyog wankhade,2.0,29,0,14.5
+71,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,oswald sam arthur,2.0,13,1,6.5
+72,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,joel cutinho,4.0,16,4,4.0
+73,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,sham murari,2.0,13,1,6.5
+74,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,luiz morais,4.0,18,2,4.5
+75,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,luiz goncalves,3.0,11,1,3.7
+76,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,luiz muller,2.0,12,0,6.0
+77,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,gabriel oliveira,4.0,7,1,1.8
+78,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,yasar haroon,3.0,11,2,3.7
+79,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,caique cirino,3.0,20,1,6.7
+80,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,breno passoni,1.0,8,0,8.0
+81,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,0.0,0,0,0.0
+82,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0.0,0,0,0.0
+83,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,william maximo,0.0,0,0,0.0
+84,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,luiz moras,0.0,0,0,0.0
+85,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,kumar shivam,0.0,0,0,0.0
+86,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,yeudy altamirano,0.0,0,0,0.0
+87,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,0.0,0,0,0.0
+88,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,shiva k,0.0,0,0,0.0
+89,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,riquelmi nascimento,3.0,22,0,7.3
+90,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,luiz morais,4.0,26,2,6.5
+91,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,luiz gabriel moras,3.0,38,0,12.7
+92,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,yasar haroon,3.0,26,2,8.7
+93,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,luiz goncalves,3.0,21,1,7.0
+94,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,luiz muller,2.0,17,2,8.5
+95,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,gabriel oliveira,2.0,6,0,3.0
+96,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,pratik singh bais,3.0,22,0,7.3
+97,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,hassan nasir,4.0,28,0,7.0
+98,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,shubhang sharma,4.0,22,1,5.5
+99,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,sumeet lahiri,3.0,24,3,8.0
+100,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,devjani mutreja,2.0,18,0,9.0
+101,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,ankush singh,2.0,11,1,5.5
+102,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,amir butt,2.0,14,1,7.0
+103,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,0.0,0,0,0.0
+104,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,kashigoud patil,0.0,0,0,0.0
+105,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,dhananjaya panda,0.0,0,0,0.0
+106,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,devon ebersohn,0.0,0,0,0.0
+107,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,0.0,0,0,0.0
+108,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0.0,0,0,0.0
+109,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,william maximo,0.0,0,0,0.0
+110,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,lucas maximo,0.0,0,0,0.0
+111,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,riquelmi nascimento,3.0,4,1,1.3
+112,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,luiz morais,3.2,4,1,1.2
+113,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,luiz moras,3.0,10,1,3.3
+114,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,yasar haroon,4.0,15,2,3.8
+115,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,luiz goncalves,4.0,22,2,5.5
+116,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,gabriel oliveira,2.0,8,2,4.0
+117,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,ashar abbas,2.0,24,0,12.0
+118,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,sudesh pillai,2.0,19,0,9.5
+119,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,sachin ravikumar,1.0,3,0,3.0
+120,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,joel cutinho,1.0,16,0,16.0
+121,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,pusharaj naringrekar,0.1,4,0,24.0
+122,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,0.0,0,0,0.0
+123,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,suyog wankhade,0.0,0,0,0.0
+124,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,imran ahmed kaneez,0.0,0,0,0.0
+125,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,tangella amresh,0.0,0,0,0.0
+126,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,shiva k,0.0,0,0,0.0
+127,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,sham murari,0.0,0,0,0.0
+128,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,luiz muller,0.0,0,0,0.0
+129,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,0.0,0,0,0.0
+130,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0.0,0,0,0.0
+131,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,william maximo,0.0,0,0,0.0
+132,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,breno passoni,0.0,0,0,0.0
+133,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,sudesh pillai,4.0,32,1,8.0
+134,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,imran ahmed kaneez,4.0,35,1,8.8
+135,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,suyog wankhade,2.0,22,0,11.0
+136,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,oswald sam arthur,1.0,12,0,12.0
+137,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,sham murari,3.0,42,1,14.0
+138,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,joel cutinho,2.0,24,1,12.0
+139,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,sachin ravikumar,4.0,35,0,8.8
+140,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,pratik singh bais,2.0,7,0,3.5
+141,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,hassan nasir,4.0,13,1,3.2
+142,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,shubhang sharma,4.0,12,1,3.0
+143,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,devjani mutreja,4.0,17,0,4.2
+144,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,dhananjaya panda,2.0,12,2,6.0
+145,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,jayanth byrappa,2.0,3,2,1.5
+146,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,kashigoud patil,2.0,9,0,4.5
+147,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,seetharam guruvayoorappan,0.0,0,0,0.0
+148,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,0.0,0,0,0.0
+149,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,amir butt,0.0,0,0,0.0
+150,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,gutierrez chavez,0.0,0,0,0.0
+151,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,0.0,0,0,0.0
+152,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,kumar shivam,0.0,0,0,0.0
+153,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,ashar abbas,0.0,0,0,0.0
+154,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,yeudy altamirano,0.0,0,0,0.0
+155,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,riquelmi nascimento,4.0,31,1,7.8
+156,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,luiz morais,4.0,19,0,4.8
+157,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,luiz goncalves,2.0,18,0,9.0
+158,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,yasar haroon,4.0,35,1,8.8
+159,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,luiz moras,4.0,19,2,4.8
+160,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,luiz muller,2.0,16,1,8.0
+161,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,pratik singh bais,4.0,23,1,5.8
+162,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,matthew noble,2.0,16,0,8.0
+163,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,dhananjaya panda,4.0,15,0,3.8
+164,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,amir butt,4.0,32,2,8.0
+165,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,gurpreet singh,2.0,19,0,9.5
+166,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,devjani mutreja,4.0,23,1,5.8
+167,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,jayanth byrappa,0.0,0,0,0.0
+168,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,0.0,0,0,0.0
+169,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,kashigoud patil,0.0,0,0,0.0
+170,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,devon ebersohn,0.0,0,0,0.0
+171,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,gutierrez chavez,0.0,0,0,0.0
+172,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,0.0,0,0,0.0
+173,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,william maximo,0.0,0,0,0.0
+174,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0.0,0,0,0.0
+175,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,gabriel oliveira,0.0,0,0,0.0
+176,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,lucas maximo,0.0,0,0,0.0
+177,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,upen shantu,3.0,11,2,3.7
+178,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,jeremy martins,4.0,37,2,9.2
+179,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,sirajullah khadim,2.0,11,0,5.5
+180,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,teddy fleming,4.0,29,0,7.2
+181,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,conrad greenshields,4.0,24,3,6.0
+182,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,rahulkumar hashu,2.1,14,2,6.5
+183,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,noman amjad,2.0,15,0,7.5
+184,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,rahimgul naseri,3.0,38,1,12.7
+185,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,dawood ahmadzai,4.0,21,2,5.2
+186,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,usman khan,2.0,22,0,11.0
+187,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,mohammad khan rafah,2.0,21,1,10.5
+188,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,jamshid nasiri,2.0,10,0,5.0
+189,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,gustav mckeon,0.0,0,0,0.0
+190,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,nasibullah arab,0.0,0,0,0.0
+191,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,christian roberts,0.0,0,0,0.0
+192,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,zada sher,0.0,0,0,0.0
+193,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,lingeswaran canessane,0.0,0,0,0.0
+194,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,dhavalkumar norotam,0.0,0,0,0.0
+195,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,christopher de freitas,0.0,0,0,0.0
+196,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,chad potgieter,0.0,0,0,0.0
+197,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,carlos nunes,0.0,0,0,0.0
+198,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,natim hassam,0.0,0,0,0.0
+199,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,zaheer zahiri,2.0,23,0,11.5
+200,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,rahimgul naseri,4.0,21,0,5.2
+201,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,dawood ahmadzai,4.0,24,0,6.0
+202,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,zada sher,3.0,37,1,12.3
+203,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,usman khan,4.0,21,4,5.2
+204,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,mohammad khan rafah,3.0,20,3,6.7
+205,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,vinay ravi,3.5,22,4,5.7
+206,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,ahmadullah shinwari,1.0,23,0,23.0
+207,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,qamar mushtaque,3.0,16,1,5.3
+208,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,muhammad butt,4.0,26,2,6.5
+209,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,kuruge abeyrathna,4.0,25,3,6.2
+210,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,chaudhary akram,2.0,20,0,10.0
+211,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,faisal raza,1.0,6,0,6.0
+212,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,khizer ahmed,0.0,0,0,0.0
+213,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,ibrahim rahimi,0.0,0,0,0.0
+214,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,tafseer ali,0.0,0,0,0.0
+215,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,junaid mehmood hussain,0.0,0,0,0.0
+216,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,gustav mckeon,0.0,0,0,0.0
+217,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,nasibullah arab,0.0,0,0,0.0
+218,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,noman amjad,0.0,0,0,0.0
+219,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,christian roberts,0.0,0,0,0.0
+220,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,lingeswaran canessane,0.0,0,0,0.0

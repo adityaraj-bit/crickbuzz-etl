@@ -1,8 +1,12 @@
-match_id,event_id,match_code,match_number,team1_id,team2_id,venue_id,match_date,match_time,toss_winner_team_id,toss_decision,match_status,winning_team_id,result_text,team1_runs,team1_wickets,team1_overs,team2_runs,team2_wickets,team2_overs
-1,2,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,,1,2,2,2026-04-02,,2,field,completed,1,Mexico won by 23 runs,153,6,20.0,130,4,20.0
-2,3,gh-vs-swt-12th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,3,4,3,2026-04-02,,3,bat,completed,3,Ghana won by 83 runs,178,5,20.0,95,10,17.5
-3,3,sey-vs-mwi-11th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,5,6,4,2026-04-02,,6,field,completed,6,Malawi won by 6 wkts,108,7,20.0,111,4,17.0
-4,3,tan-vs-shn-10th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,7,8,3,2026-04-02,,7,bat,completed,7,Tanzania won by 161 runs,236,4,20.0,75,10,18.3
-5,3,tan-vs-sey-9th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,7,5,3,2026-04-02,,7,bat,completed,7,Tanzania won by 153 runs,205,3,20.0,52,9,20.0
-6,3,shn-vs-gh-7th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,8,3,4,2026-04-02,,3,field,completed,3,Ghana won by 9 wkts,77,10,20.0,78,1,6.4
-7,3,swt-vs-mwi-8th-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-b-2026,,4,6,3,2026-04-02,,4,bat,completed,6,Malawi won by 8 wkts,75,10,15.2,77,2,6.5
+match_id,event_id,match_code,match_number,team1_id,team2_id,venue_id,match_date,match_time,toss_winner_team_id,toss_decision,match_status,winning_team_id,result_text,player_of_match_id,team1_runs,team1_wickets,team1_overs,team2_runs,team2_wickets,team2_overs
+1,2,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,93rd Match,1,2,2,2023-04-04,"9:30 AM LOCAL, 7:30 AM GMT, 12:30 AM PT, 3:30 AM ET",2,field,completed,2,Oman won by 3 wkts,15,268,7,50.0,274,7,49.1
+2,2,sco-vs-oman-92nd-match-icc-cricket-world-cup-league-two-2023-27,92nd Match,3,2,2,2023-04-02,"9:30 AM LOCAL, 7:30 AM GMT, 12:30 AM PT, 3:30 AM ET",,,abandoned,,,,,,,,,
+3,3,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Final,4,5,3,2026-04-05,"10:00 AM LOCAL, 4:00 PM GMT, 9:00 AM PT, 12:00 PM ET",4,bat,completed,5,Brazil won by 7 wkts,35,112,10,18.0,113,3,11.2
+4,3,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,6th Match,6,4,3,2026-04-04,"2:00 PM LOCAL, 8:00 PM GMT, 1:00 PM PT, 4:00 PM ET",6,bat,completed,4,Mexico won by 8 wkts,32,45,10,12.5,47,2,5.3
+5,3,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,5th Match,5,6,3,2026-04-04,"9:00 AM LOCAL, 3:00 PM GMT, 8:00 AM PT, 11:00 AM ET",6,field,completed,5,Brazil won by 69 runs,46,157,7,20.0,88,7,20.0
+6,3,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,4th Match,4,5,3,2026-04-03,"2:00 PM LOCAL, 8:00 PM GMT, 1:00 PM PT, 4:00 PM ET",5,field,completed,4,Mexico won by 16 runs,32,160,9,20.0,144,8,20.0
+7,3,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,3rd Match,6,5,3,2026-04-03,"9:00 AM LOCAL, 3:00 PM GMT, 8:00 AM PT, 11:00 AM ET",6,bat,completed,5,Brazil won by 10 wkts,35,64,10,19.2,66,0,6.1
+8,3,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,2nd Match,4,6,3,2026-04-02,"2:00 PM LOCAL, 8:00 PM GMT, 1:00 PM PT, 4:00 PM ET",4,bat,completed,4,Mexico won by 124 runs,27,204,5,20.0,80,7,20.0
+9,3,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,1st Match,4,5,3,2026-04-02,"9:00 AM LOCAL, 3:00 PM GMT, 8:00 AM PT, 11:00 AM ET",5,field,completed,4,Mexico won by 23 runs,,153,6,20.0,130,4,20.0
+10,4,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,2nd Match,7,8,4,2026-04-05,"2:00 PM LOCAL, 1:00 PM GMT, 6:00 AM PT, 9:00 AM ET",7,bat,completed,8,Portugal won by 6 wkts,82,128,10,19.1,129,4,15.0
+11,4,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,1st Match,9,7,4,2026-04-05,"10:00 AM LOCAL, 9:00 AM GMT, 2:00 AM PT, 5:00 AM ET",9,bat,completed,9,Norway won by 10 runs,92,148,9,20.0,138,10,18.5

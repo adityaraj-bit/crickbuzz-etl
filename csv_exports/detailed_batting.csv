@@ -1,0 +1,221 @@
+batting_id,match_code,team_name,player_name,runs_scored,balls_faced,fours,sixes,strike_rate,dismissal_type,bowler_name
+1,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,willem myburgh,43,69,1,0,62.32,b Jiten Ramanandi,jiten ramanandi
+2,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,malan kruger,21,44,1,1,47.73,c Jatinder Singh b Hassnain Shah,hassnain shah
+3,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,jan frylinck,13,29,0,0,44.83,c Vinayak Shukla b Hassnain Shah,hassnain shah
+4,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,gerhard erasmus,54,55,4,1,98.18,c Pruthvikumar Macchi b Shakeel Ahmed,shakeel ahmed
+5,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,louren steenkamp,32,48,2,0,66.67,c Hammad Mirza b Shakeel Ahmed,shakeel ahmed
+6,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,jj smit,24,17,0,3,141.18,c Mujibur Ali b Wasim Ali,wasim ali
+7,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,zane green,42,22,6,1,190.91,c Vinayak Shukla b Hassnain Shah,hassnain shah
+8,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,dylan leicher,30,17,2,1,176.47,not out,
+9,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,bernard scholtz,1,1,0,0,100.0,not out,
+10,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,jatinder singh,11,29,1,0,37.93,c Jack Brassell b Max Heingo,max heingo
+11,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,pruthvikumar macchi,7,10,1,0,70.0,c Gerhard Erasmus b Max Heingo,max heingo
+12,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,shakeel ahmed,17,27,1,0,62.96,c Malan Kruger b Gerhard Erasmus,gerhard erasmus
+13,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,hammad mirza,112,128,12,1,87.5,not out,
+14,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,mujibur ali,43,42,7,0,102.38,c Dylan Leicher b Jack Brassell,jack brassell
+15,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,jiten ramanandi,0,1,0,0,0.0,c Zane Green b Jack Brassell,jack brassell
+16,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,wasim ali,62,49,3,2,126.53,c Jan Frylinck b Max Heingo,max heingo
+17,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,vinayak shukla,11,9,1,0,122.22,b Gerhard Erasmus,gerhard erasmus
+18,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,hassnain shah,0,0,0,0,0.0,not out,
+19,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,jack brassell,0,0,0,0,0.0,did not bat,
+20,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Namibia,max heingo,0,0,0,0,0.0,did not bat,
+21,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,jay odedra,0,0,0,0,0.0,did not bat,
+22,nam-vs-oman-93rd-match-icc-cricket-world-cup-league-two-2023-27,Oman,shah faisal,0,0,0,0,0.0,did not bat,
+23,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,18,19,2,0,94.74,b Riquelmi Nascimento,riquelmi nascimento
+24,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,jayanth byrappa,14,13,0,1,107.69,c Chrystian Machado b Gabriel Oliveira,gabriel oliveira
+25,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,gurpreet singh,4,4,1,0,100.0,c Luiz Morais b Riquelmi Nascimento,riquelmi nascimento
+26,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,kashigoud patil,5,9,1,0,55.56,c Chrystian Machado b Gabriel Oliveira,gabriel oliveira
+27,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,dhananjaya panda,27,24,1,1,112.5,b Luiz Gabriel Moras,luiz gabriel moras
+28,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,amir butt,28,20,1,2,140.0,c Michel Assuncao b Luiz Muller,luiz muller
+29,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,shubhang sharma,3,7,0,0,42.86,c Luiz Muller b Luiz Goncalves,luiz goncalves
+30,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,devon ebersohn,1,3,0,0,33.33,batting,
+31,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,devjani mutreja,2,2,0,0,100.0,retd out,
+32,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,sumeet lahiri,2,6,0,0,33.33,c and b Luiz Goncalves,luiz goncalves
+33,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Mexico,pratik singh bais,0,1,0,0,0.0,c Chrystian Machado b Luiz Goncalves,luiz goncalves
+34,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,luiz muller,38,21,5,1,180.95,c Gurpreet Singh b Gurpreet Singh,gurpreet singh
+35,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,luiz morais,59,30,8,3,196.67,c Kashigoud Patil b Gurpreet Singh,gurpreet singh
+36,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,yasar haroon,6,15,0,0,40.0,not out,
+37,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,michel assuncao,0,2,0,0,0.0,lbw b Gurpreet Singh,gurpreet singh
+38,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0,0,0,0,0.0,not out,
+39,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,gabriel oliveira,0,0,0,0,0.0,did not bat,
+40,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,luiz goncalves,0,0,0,0,0.0,did not bat,
+41,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,luiz gabriel moras,0,0,0,0,0.0,did not bat,
+42,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,william maximo,0,0,0,0,0.0,did not bat,
+43,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,riquelmi nascimento,0,0,0,0,0.0,did not bat,
+44,mex-vs-brazil-final-mexico-t20i-tri-series-2026,Brazil,breno passoni,0,0,0,0,0.0,did not bat,
+45,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,15,21,1,0,71.43,c Seetharam Guruvayoorappan b Shubhang Sharma,shubhang sharma
+46,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,joel cutinho,13,9,1,1,144.44,b Sumeet Lahiri,sumeet lahiri
+47,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,sachin ravikumar,0,4,0,0,0.0,c Dhananjaya Panda b Sumeet Lahiri,sumeet lahiri
+48,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,sham murari,0,1,0,0,0.0,b Sumeet Lahiri,sumeet lahiri
+49,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,ashar abbas,0,1,0,0,0.0,lbw b Sumeet Lahiri,sumeet lahiri
+50,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,suyog wankhade,1,8,0,0,12.5,c Devjani Mutreja b Pratik Singh,pratik singh
+51,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,kumar shivam,0,2,0,0,0.0,c Seetharam Guruvayoorappan b Matthew Noble,matthew noble
+52,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,yeudy altamirano,3,8,0,0,37.5,lbw b Shubhang Sharma,shubhang sharma
+53,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,tangella amresh,7,6,0,1,116.67,b Sumeet Lahiri,sumeet lahiri
+54,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,oswald sam arthur,1,11,0,0,9.09,not out,
+55,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Costa Rica,imran ahmed kaneez,0,6,0,0,0.0,c Seetharam Guruvayoorappan b Devjani Mutreja,devjani mutreja
+56,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,gutierrez chavez,25,18,1,2,138.89,c Tangella Amresh b Joel Cutinho,joel cutinho
+57,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,ankush singh,0,2,0,0,0.0,c Suyog Wankhade b Oswald Sam Arthur,oswald sam arthur
+58,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,dhananjaya panda,9,8,0,0,112.5,not out,
+59,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,jayanth byrappa,5,6,1,0,83.33,not out,
+60,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,pratik singh bais,0,0,0,0,0.0,did not bat,
+61,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,devjani mutreja,0,0,0,0,0.0,did not bat,
+62,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,shubhang sharma,0,0,0,0,0.0,did not bat,
+63,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,gurpreet singh,0,0,0,0,0.0,did not bat,
+64,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,matthew noble,0,0,0,0,0.0,did not bat,
+65,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,seetharam guruvayoorappan,0,0,0,0,0.0,did not bat,
+66,cri-vs-mex-6th-match-mexico-t20i-tri-series-2026,Mexico,sumeet lahiri,0,0,0,0,0.0,did not bat,
+67,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,luiz muller,15,14,2,0,107.14,b Sachin Ravikumar,sachin ravikumar
+68,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,luiz morais,34,32,3,2,106.25,b Oswald Sam Arthur,oswald sam arthur
+69,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,yasar haroon,32,27,2,1,118.52,c Yeudy Altamirano b Joel Cutinho,joel cutinho
+70,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,4,7,1,0,57.14,c Imran Ahmed Kaneez b Joel Cutinho,joel cutinho
+71,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0,3,0,0,0.0,c Suyog Wankhade b Sham Murari,sham murari
+72,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,luiz goncalves,24,22,2,1,109.09,not out,
+73,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,william maximo,4,6,0,0,66.67,c TV Badri Narayanan b Joel Cutinho,joel cutinho
+74,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,luiz moras,6,3,1,0,200.0,c Sachin Ravikumar b Joel Cutinho,joel cutinho
+75,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,gabriel oliveira,10,6,1,1,166.67,not out,
+76,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,kumar shivam,0,6,0,0,0.0,b Luiz Morais,luiz morais
+77,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,yeudy altamirano,0,2,0,0,0.0,c William Maximo b Luiz Goncalves,luiz goncalves
+78,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,sachin ravikumar,22,30,1,1,73.33,c Michel Assuncao b Yasar Haroon,yasar haroon
+79,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,joel cutinho,3,7,0,0,42.86,c Yasar Haroon b Luiz Morais,luiz morais
+80,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,sudesh pillai,3,18,0,0,16.67,c Luiz Morais b Yasar Haroon,yasar haroon
+81,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,3,4,0,0,75.0,b Gabriel Oliveira,gabriel oliveira
+82,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,suyog wankhade,19,32,0,0,59.38,st Chrystian Machado b Caique Cirino,caique cirino
+83,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,shiva k,16,16,1,1,100.0,not out,
+84,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,oswald sam arthur,2,6,0,0,33.33,not out,
+85,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,breno passoni,0,0,0,0,0.0,did not bat,
+86,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Brazil,caique cirino,0,0,0,0,0.0,did not bat,
+87,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,imran ahmed kaneez,0,0,0,0,0.0,did not bat,
+88,brazil-vs-cri-5th-match-mexico-t20i-tri-series-2026,Costa Rica,sham murari,0,0,0,0,0.0,did not bat,
+89,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,24,26,2,0,92.31,st Lucas Maximo b Yasar Haroon,yasar haroon
+90,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,ankush singh,36,27,3,3,133.33,b Luiz Goncalves,luiz goncalves
+91,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,kashigoud patil,9,9,2,0,100.0,b Yasar Haroon,yasar haroon
+92,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,dhananjaya panda,13,19,0,1,68.42,c Chrystian Machado b Luiz Muller,luiz muller
+93,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,amir butt,27,13,2,2,207.69,b Luiz Muller,luiz muller
+94,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,devon ebersohn,1,1,0,0,100.0,run out (Luiz Goncalves/Gabriel Oliveira),
+95,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,shubhang sharma,21,16,0,3,131.25,b Luiz Morais,luiz morais
+96,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,devjani mutreja,4,5,0,0,80.0,run out (Luiz Muller/Lucas Maximo),
+97,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,sumeet lahiri,1,1,0,0,100.0,not out,
+98,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,pratik singh bais,0,1,0,0,0.0,c Luiz Muller b Luiz Morais,luiz morais
+99,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Mexico,hassan nasir,3,3,0,0,100.0,not out,
+100,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,luiz muller,21,16,2,1,131.25,c and b Sumeet Lahiri,sumeet lahiri
+101,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,luiz morais,27,26,2,1,103.85,c Kashigoud Patil b Shubhang Sharma,shubhang sharma
+102,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,13,12,1,0,108.33,c Pratik Singh b Sumeet Lahiri,sumeet lahiri
+103,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,14,13,1,0,107.69,b Ankush Singh,ankush singh
+104,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,yasar haroon,1,4,0,0,25.0,b Sumeet Lahiri,sumeet lahiri
+105,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,william maximo,17,19,1,0,89.47,b Amir Butt,amir butt
+106,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,luiz goncalves,11,11,1,0,100.0,run out (Kashigoud Patil/Devon Ebersohn),
+107,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,luiz gabriel moras,13,14,2,0,92.86,run out (Amir Butt),
+108,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,gabriel oliveira,11,5,1,1,220.0,not out,
+109,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,riquelmi nascimento,1,1,0,0,100.0,not out,
+110,mex-vs-brazil-4th-match-mexico-t20i-tri-series-2026,Brazil,lucas maximo,0,0,0,0,0.0,did not bat,
+111,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,1,14,0,0,7.14,b Luiz Gabriel,luiz gabriel
+112,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,joel cutinho,1,4,0,0,25.0,run out (Michel Assuncao/Chrystian Machado),
+113,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,suyog wankhade,17,41,1,0,41.46,b Yasar Haroon,yasar haroon
+114,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,sudesh pillai,7,11,1,0,63.64,lbw b Yasar Haroon,yasar haroon
+115,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,sachin ravikumar,6,8,0,0,75.0,c Chrystian Machado b Luiz Goncalves,luiz goncalves
+116,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,imran ahmed kaneez,11,21,0,0,52.38,c Chrystian Machado b Gabriel Oliveira,gabriel oliveira
+117,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,ashar abbas,0,1,0,0,0.0,c Chrystian Machado b Luiz Goncalves,luiz goncalves
+118,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,tangella amresh,2,3,0,0,66.67,b Gabriel Oliveira,gabriel oliveira
+119,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,shiva k,5,8,0,0,62.5,c Gabriel Oliveira b Riquelmi Nascimento,riquelmi nascimento
+120,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,sham murari,0,1,0,0,0.0,not out,
+121,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Costa Rica,pusharaj naringrekar,1,6,0,0,16.67,b Luiz Morais,luiz morais
+122,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,luiz muller,34,22,6,0,154.55,not out,
+123,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,luiz morais,29,15,5,1,193.33,not out,
+124,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,0,0,0,0,0.0,did not bat,
+125,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0,0,0,0,0.0,did not bat,
+126,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,gabriel oliveira,0,0,0,0,0.0,did not bat,
+127,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,luiz goncalves,0,0,0,0,0.0,did not bat,
+128,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,luiz moras,0,0,0,0,0.0,did not bat,
+129,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,riquelmi nascimento,0,0,0,0,0.0,did not bat,
+130,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,william maximo,0,0,0,0,0.0,did not bat,
+131,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,yasar haroon,0,0,0,0,0.0,did not bat,
+132,cri-vs-brazil-3rd-match-mexico-t20i-tri-series-2026,Brazil,breno passoni,0,0,0,0,0.0,did not bat,
+133,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,jayanth byrappa,1,3,0,0,33.33,c Suyog Wankhade b Sudesh Pillai,sudesh pillai
+134,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,seetharam guruvayoorappan,1,4,0,0,25.0,c Sudesh Pillai b Imran Ahmed Kaneez,imran ahmed kaneez
+135,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,kashigoud patil,32,20,2,3,160.0,c TV Badri Narayanan b Joel Cutinho,joel cutinho
+136,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,26,21,1,1,123.81,c Imran Ahmed Kaneez b Sham Murari,sham murari
+137,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,dhananjaya panda,56,34,7,1,164.71,not out,
+138,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,amir butt,73,38,3,6,192.11,run out (Sachin Ravikumar),
+139,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,tv badri narayanan,3,15,0,0,20.0,b Hassan Nasir,hassan nasir
+140,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,joel cutinho,11,21,1,0,52.38,b Shubhang Sharma,shubhang sharma
+141,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,suyog wankhade,0,0,0,0,0.0,run out (Shantanu Kaveri),
+142,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,sudesh pillai,24,29,1,2,82.76,c Shubhang Sharma b Dhananjaya Panda,dhananjaya panda
+143,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,sachin ravikumar,5,13,0,0,38.46,c Seetharam Guruvayoorappan b Dhananjaya Panda,dhananjaya panda
+144,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,kumar shivam,7,17,1,0,41.18,b Jayanth Byrappa,jayanth byrappa
+145,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,ashar abbas,10,14,0,0,71.43,not out,
+146,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,yeudy altamirano,1,8,0,0,12.5,b Jayanth Byrappa,jayanth byrappa
+147,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,sham murari,1,3,0,0,33.33,not out,
+148,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,devjani mutreja,0,0,0,0,0.0,did not bat,
+149,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,pratik singh bais,0,0,0,0,0.0,did not bat,
+150,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,hassan nasir,0,0,0,0,0.0,did not bat,
+151,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,shubhang sharma,0,0,0,0,0.0,did not bat,
+152,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Mexico,gutierrez chavez,0,0,0,0,0.0,did not bat,
+153,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,imran ahmed kaneez,0,0,0,0,0.0,did not bat,
+154,mex-vs-cri-2nd-match-mexico-t20i-tri-series-2026,Costa Rica,oswald sam arthur,0,0,0,0,0.0,did not bat,
+155,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,jayanth byrappa,9,9,0,1,100.0,run out (Michel Assuncao/Lucas Maximo),
+156,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,shantanu kaveri,2,3,0,0,66.67,b Riquelmi Nascimento,riquelmi nascimento
+157,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,gurpreet singh,37,32,3,1,115.62,c Lucas Maximo b Luiz Gabriel,luiz gabriel
+158,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,kashigoud patil,25,22,3,0,113.64,c Chrystian Machado b Luiz Gabriel,luiz gabriel
+159,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,amir butt,8,10,0,1,80.0,c Michel Assuncao b Yasar Haroon,yasar haroon
+160,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,dhananjaya panda,27,25,2,1,108.0,st Lucas Maximo b Luiz Muller,luiz muller
+161,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,devon ebersohn,20,18,2,0,111.11,not out,
+162,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,matthew noble,1,2,0,0,50.0,not out,
+163,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,luiz muller,26,20,3,1,130.0,c Gurpreet Singh b Pratik Singh,pratik singh
+164,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,luiz morais,54,56,2,2,96.43,not out,
+165,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,yasar haroon,36,35,4,1,102.86,c Devon Ebersohn b Amir Butt,amir butt
+166,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,michel assuncao,2,4,0,0,50.0,c Jayanth Byrappa b Amir Butt,amir butt
+167,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,william maximo,1,3,0,0,33.33,c Dhananjaya Panda b Devjani Mutreja,devjani mutreja
+168,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,luiz goncalves,6,2,1,0,300.0,not out,
+169,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,devjani mutreja,0,0,0,0,0.0,did not bat,
+170,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,pratik singh bais,0,0,0,0,0.0,did not bat,
+171,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Mexico,gutierrez chavez,0,0,0,0,0.0,did not bat,
+172,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,chrystian machado,0,0,0,0,0.0,did not bat,
+173,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,gabriel oliveira,0,0,0,0,0.0,did not bat,
+174,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,lucas maximo,0,0,0,0,0.0,did not bat,
+175,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,luiz moras,0,0,0,0,0.0,did not bat,
+176,mex-vs-brazil-1st-match-mexico-t20i-tri-series-2026,Brazil,riquelmi nascimento,0,0,0,0,0.0,did not bat,
+177,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,gustav mckeon,0,4,0,0,0.0,b Upen Shantu,upen shantu
+178,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,nasibullah arab,6,7,1,0,85.71,b Jeremy Martins,jeremy martins
+179,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,noman amjad,12,6,3,0,200.0,c Chad Potgieter b Jeremy Martins,jeremy martins
+180,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,christian roberts,44,45,3,0,97.78,not out,
+181,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,zada sher,30,22,3,1,136.36,c Rahulkumar Hashu b Conrad Greenshields,conrad greenshields
+182,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,jamshid nasiri,7,12,0,0,58.33,b Conrad Greenshields,conrad greenshields
+183,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,mohammad khan rafah,20,9,0,3,222.22,c Jeremy Martins b Rahulkumar Hashu,rahulkumar hashu
+184,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,lingeswaran canessane,0,1,0,0,0.0,b Conrad Greenshields,conrad greenshields
+185,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,usman khan,2,3,0,0,66.67,b Rahulkumar Hashu,rahulkumar hashu
+186,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,dawood ahmadzai,1,7,0,0,14.29,b Upen Shantu,upen shantu
+187,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,France,rahimgul naseri,0,0,0,0,0.0,run out (Conrad Greenshields/Rahulkumar Hashu),
+188,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,dhavalkumar norotam,52,29,5,2,179.31,c and b Mohammad Khan Rafah,mohammad khan rafah
+189,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,christopher de freitas,2,4,0,0,50.0,st Lingeswaran Canessane b Rahimgul Naseri,rahimgul naseri
+190,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,jeremy martins,35,22,2,2,159.09,b Dawood Ahmadzai,dawood ahmadzai
+191,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,chad potgieter,11,5,1,1,220.0,c Rahimgul Naseri b Dawood Ahmadzai,dawood ahmadzai
+192,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,conrad greenshields,14,20,1,0,70.0,not out,
+193,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,carlos nunes,12,10,1,1,120.0,not out,
+194,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,sirajullah khadim,0,0,0,0,0.0,did not bat,
+195,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,natim hassam,0,0,0,0,0.0,did not bat,
+196,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,rahulkumar hashu,0,0,0,0,0.0,did not bat,
+197,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,teddy fleming,0,0,0,0,0.0,did not bat,
+198,fra-vs-port-2nd-match-portugal-t20i-tri-series-2026,Portugal,upen shantu,0,0,0,0,0.0,did not bat,
+199,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,khizer ahmed,24,19,1,1,126.32,run out (Mohammad Khan Rafah/Lingeswaran Canessane),
+200,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,kuruge abeyrathna,38,38,1,3,100.0,b Zada Sher,zada sher
+201,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,chaudhary akram,41,34,3,1,120.59,b Usman Khan,usman khan
+202,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,ibrahim rahimi,34,15,3,3,226.67,c Dawood Ahmadzai b Usman Khan,usman khan
+203,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,faisal raza,2,2,0,0,100.0,c Dawood Ahmadzai b Mohammad Khan Rafah,mohammad khan rafah
+204,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,tafseer ali,1,3,0,0,33.33,c Gustav Mckeon b Usman Khan,usman khan
+205,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,junaid mehmood hussain,0,2,0,0,0.0,b Usman Khan,usman khan
+206,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,vinay ravi,1,2,0,0,50.0,c Rahimgul Naseri b Mohammad Khan Rafah,mohammad khan rafah
+207,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,qamar mushtaque,1,2,0,0,50.0,not out,
+208,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,ahmadullah shinwari,0,1,0,0,0.0,b Mohammad Khan Rafah,mohammad khan rafah
+209,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,Norway,muhammad butt,1,2,0,0,50.0,not out,
+210,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,gustav mckeon,4,5,1,0,80.0,b Vinay Ravi,vinay ravi
+211,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,nasibullah arab,29,18,4,1,161.11,st Khizer Ahmed b Muhammad Butt,muhammad butt
+212,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,noman amjad,6,4,1,0,150.0,c Kuruge Abeyrathna b Vinay Ravi,vinay ravi
+213,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,christian roberts,53,45,4,0,117.78,b Vinay Ravi,vinay ravi
+214,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,lingeswaran canessane,13,12,0,1,108.33,c Vinay Ravi b Kuruge Abeyrathna,kuruge abeyrathna
+215,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,mohammad khan rafah,1,3,0,0,33.33,b Kuruge Abeyrathna,kuruge abeyrathna
+216,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,zada sher,0,1,0,0,0.0,c Kuruge Abeyrathna b Muhammad Butt,muhammad butt
+217,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,usman khan,3,5,0,0,60.0,st Khizer Ahmed b Kuruge Abeyrathna,kuruge abeyrathna
+218,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,dawood ahmadzai,19,18,2,0,105.56,b Qamar Mushtaque,qamar mushtaque
+219,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,rahimgul naseri,0,1,0,0,0.0,b Vinay Ravi,vinay ravi
+220,nor-vs-fra-1st-match-portugal-t20i-tri-series-2026,France,zaheer zahiri,1,2,0,0,50.0,not out,

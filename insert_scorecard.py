@@ -47,6 +47,7 @@ def insert_scorecard(conn, match_id, team1_id, team2_id, scorecard_data):
             insert_playing_xi(conn, match_id, team_id, pid)
             
             # Record Roles (Captain, WK) from scorecard
+            # (Only if not already handled by main.py, but safe to repeat)
             for role in b.get("roles", []):
                 from db import insert_match_player_role
                 insert_match_player_role(conn, match_id, team_id, pid, role)
@@ -105,10 +106,8 @@ def insert_scorecard(conn, match_id, team1_id, team2_id, scorecard_data):
             if not pid:
                 continue
             
-            from db import insert_match_player_role
-            # Record Roles (for bowlers who might have roles not seen in batting somehow)
-            for role in b.get("roles", []):
-                insert_match_player_role(conn, match_id, team_id, pid, role)
+            # Skip role extraction here because these players belong to the opponent team.
+            # Roles (Captain, WK) are extracted from their own batting/DNB sections.
             
             # Stats insertion follows...
 

@@ -1,5 +1,5 @@
-venue_id,stadium_name,city,seating_capacity
-1,Unknown Stadium,Unknown,0
-2,Reforma Athletic Club,"Naucalpan, Mexico",0
-3,Achimota Senior Secondary School B Field,"Accra, Ghana",0
-4,Achimota Senior Secondary School A Field,"Accra, Ghana",0
+venue_id,stadium_name,city,country,seating_capacity
+1,Unknown Stadium,Unknown,,0
+2,Wanderers Cricket Ground,Windhoek,Namibia,0
+3,Reforma Athletic Club,Naucalpan,Mexico,0
+4,Santarem Cricket Ground,Albergaria,Portugal,0
