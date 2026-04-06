@@ -36,7 +36,20 @@ def insert_scorecard(conn, match_id, team1_id, team2_id, scorecard_data):
 
         # ---------------- BATTING ----------------
         for b in innings.get("batting", []):
-            pid = get_or_create_player(conn, b["name"])
+            name = b["name"]
+            
+            # Players should already be created/synced by main.py
+            pid = get_or_create_player(conn, name)
+            if not pid:
+                continue
+            
+            from db import insert_playing_xi
+            insert_playing_xi(conn, match_id, team_id, pid)
+            
+            # Record Roles (Captain, WK) from scorecard
+            for role in b.get("roles", []):
+                from db import insert_match_player_role
+                insert_match_player_role(conn, match_id, team_id, pid, role)
 
             # Avoid duplicates (composite PK not enforced on batting_id, but good practice)
             cur.execute("""
@@ -72,9 +85,32 @@ def insert_scorecard(conn, match_id, team1_id, team2_id, scorecard_data):
                     bowler_id
                 ))
 
+        # ---------------- DID NOT BAT (DNB) ----------------
+        # DNB players are already handled in main.py for playing_xi and roles
+        # insert_scorecard mostly focuses on the specific scores.
+        # But we can keep it here for redundancy if needed, though main.py covers it.
+        for d in innings.get("dnb", []):
+            name = d["name"]
+            pid = get_or_create_player(conn, name)
+            if not pid:
+                continue
+            
+            from db import insert_playing_xi
+            insert_playing_xi(conn, match_id, team_id, pid)
+
         # ---------------- BOWLING ----------------
         for b in innings.get("bowling", []):
-            pid = get_or_create_player(conn, b["name"])
+            name = b["name"]
+            pid = get_or_create_player(conn, name)
+            if not pid:
+                continue
+            
+            from db import insert_match_player_role
+            # Record Roles (for bowlers who might have roles not seen in batting somehow)
+            for role in b.get("roles", []):
+                insert_match_player_role(conn, match_id, team_id, pid, role)
+            
+            # Stats insertion follows...
 
             cur.execute("""
                 SELECT bowling_id FROM bowling_scorecard 
